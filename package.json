@@ -1,0 +1,45 @@
+{
+  "name": "helloworld-cloud",
+  "version": "0.2.0",
+  "dependencies": {
+    "body-parser": "~1.0.2",
+    "cors": "~2.8.3",
+    "express": "~4.15.3",
+    "fh-mbaas-api": "~8.0.3",
+    "request": "2.81.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-concurrent": "latest",
+    "grunt-contrib-jshint": "~0.12.0",
+    "grunt-contrib-watch": "latest",
+    "grunt-env": "~0.4.4",
+    "grunt-node-inspector": ">=0.2.0",
+    "grunt-nodemon": "0.4.2",
+    "grunt-open": "~0.2.3",
+    "grunt-plato": "~1.4.0",
+    "grunt-shell": "~0.7.0",
+    "istanbul": "0.4.5",
+    "load-grunt-tasks": "~0.6.0",
+    "mocha": "~2.1.0",
+    "proxyquire": "0.5.3",
+    "should": "2.1.1",
+    "sinon": "~1.17.2",
+    "supertest": "0.8.2",
+    "time-grunt": "~0.3.2"
+  },
+  "main": "application.js",
+  "scripts": {
+    "test": "grunt test",
+    "unit": "grunt unit",
+    "accept": "grunt accept",
+    "coverage": "grunt coverage",
+    "coverage-unit": "grunt coverage-unit",
+    "coverage-accept": "grunt coverage-accept",
+    "analysis": "grunt analysis",
+    "debug": "grunt debug",
+    "serve": "grunt serve",
+    "start": "node application.js"
+  },
+  "license": "Apache-2.0"
+}

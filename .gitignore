@@ -1,0 +1,7 @@
+node_modules
+*~
+cov-*
+coverage
+plato
+.idea
+.DS_Store
