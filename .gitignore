@@ -5,3 +5,4 @@ coverage
 plato
 .idea
 .DS_Store
+isolate-*
