@@ -1,0 +1,1463 @@
+Profiling application for 30000 ms...
+App started at: Tue Nov 07 2017 17:24:04 GMT+0000 (UTC) on port: 8188
+amqp connected
+2017-11-07T17:24:10.300Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:10.477Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:10.596Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:10.723Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:10.831Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:10.945Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.060Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.174Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.299Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.415Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.532Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.646Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.781Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:11.894Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.001Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.119Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.254Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.367Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.475Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.588Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.701Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.818Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:12.941Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.055Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.160Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.266Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.370Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.486Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.594Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.717Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.832Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:13.951Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.063Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.183Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.293Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.428Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.556Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.676Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.790Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:14.908Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.028Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.156Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.272Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.385Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.500Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.640Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.759Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.880Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:15.997Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.103Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.224Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.335Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.447Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.554Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.672Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.787Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:16.902Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.010Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.128Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.244Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.371Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.486Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.611Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.728Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.847Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:17.959Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.081Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.187Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.296Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.422Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.546Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.663Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.777Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:18.902Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.018Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.130Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.244Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.352Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.466Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.582Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.700Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.806Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:19.918Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.032Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.150Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.267Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.378Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.484Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.607Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.712Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.825Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:20.938Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.053Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.158Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.273Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.375Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.491Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.598Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.720Z 'In hello route GET / req.query=' {}
+2017-11-07T17:24:21.822Z 'In hello route GET / req.query=' {}
+Restarting server without profiling now
+Finding latest profile...
+App started at: Tue Nov 07 2017 17:24:34 GMT+0000 (UTC) on port: 8188
+Processing profile... isolate-0x2cd4290-v8.log
+amqp connected
+===Profile Output Start============
+Statistical profiling result from isolate-0x2cd4290-v8.log, (3070 ticks, 261 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+    102    3.3%          /lib/x86_64-linux-gnu/libc-2.15.so
+     26    0.8%          /lib/x86_64-linux-gnu/libpthread-2.15.so
+      4    0.1%          /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.22
+      2    0.1%          [vdso]
+      1    0.0%          /lib/x86_64-linux-gnu/libm-2.15.so
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+     20    0.7%    0.7%  LazyCompile: *fromString buffer.js:186:20
+     19    0.6%    0.6%  LazyCompile: *normalizeStringPosix path.js:78:30
+     12    0.4%    0.4%  LazyCompile: *<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      8    0.3%    0.3%  Stub: CompareICStub {3}
+      8    0.3%    0.3%  LazyCompile: *Hmac crypto.js:88:14
+      7    0.2%    0.2%  Stub: SubStringStub
+      7    0.2%    0.2%  LazyCompile: *Uint8ArrayConstructByArrayBuffer native typedarray.js:144:42
+      7    0.2%    0.2%  Builtin: CallFunction_ReceiverIsNotNullOrUndefined
+      6    0.2%    0.2%  Stub: StringAddStub_CheckNone_NotTenured
+      6    0.2%    0.2%  Stub: CEntryStub
+      6    0.2%    0.2%  KeyedLoadIC: A keyed load IC from the snapshot
+      6    0.2%    0.2%  Builtin: ArgumentsAdaptorTrampoline
+      5    0.2%    0.2%  Stub: InstanceOfStub
+      5    0.2%    0.2%  Stub: CallApiCallbackStub {1}
+      4    0.1%    0.1%  LazyCompile: ~byteLength buffer.js:343:20
+      4    0.1%    0.1%  LazyCompile: ~Module._findPath module.js:151:28
+      4    0.1%    0.1%  LazyCompile: *Uint8Array native typedarray.js:241:31
+      3    0.1%    0.1%  Stub: ToStringStub
+      3    0.1%    0.1%  Stub: StringToNumberStub
+      3    0.1%    0.1%  Stub: BinaryOpWithAllocationSiteStub
+      3    0.1%    0.1%  LazyCompile: ~exec native regexp.js:116:30
+      3    0.1%    0.1%  LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      3    0.1%    0.1%  LazyCompile: *byteLength buffer.js:343:20
+      3    0.1%    0.1%  LazyCompile: *Buffer.write buffer.js:714:34
+      3    0.1%    0.1%  Builtin: ConstructFunction
+      3    0.1%    0.1%  Builtin: Construct
+      2    0.1%    0.1%  Stub: ToBooleanStub
+      2    0.1%    0.1%  Stub: ToBooleanICStub(String)
+      2    0.1%    0.1%  Stub: ToBooleanICStub {2}
+      2    0.1%    0.1%  Stub: ToBooleanICStub {1}
+      2    0.1%    0.1%  Stub: RecordWriteStub {1}
+      2    0.1%    0.1%  Stub: LoadICStub
+      2    0.1%    0.1%  Stub: FastNewStrictArgumentsStub
+      2    0.1%    0.1%  Stub: FastNewClosureStub
+      2    0.1%    0.1%  Stub: CompareICStub {2}
+      2    0.1%    0.1%  Stub: CallApiCallbackStub {2}
+      2    0.1%    0.1%  Stub: CallApiCallbackStub
+      2    0.1%    0.1%  RegExp: \\s*#.*|^\\s*|\\s*$
+      2    0.1%    0.1%  LazyCompile: ~extname path.js:1437:28
+      2    0.1%    0.1%  LazyCompile: ~Module._resolveLookupPaths module.js:314:38
+      2    0.1%    0.1%  LazyCompile: ~Module._compile module.js:510:37
+      2    0.1%    0.1%  LazyCompile: *tryPackage module.js:101:20
+      2    0.1%    0.1%  LazyCompile: *isFinite native v8natives.js:32:24
+      2    0.1%    0.1%  LazyCompile: *LazyTransform internal/streams/lazy_transform.js:11:23
+      2    0.1%    0.1%  LazyCompile: *Hash.digest crypto.js:79:33
+      2    0.1%    0.1%  KeyedStoreIC: A keyed store IC from the snapshot
+      2    0.1%    0.1%  KeyedLoadIC: A keyed load IC from the snapshot {1}
+      2    0.1%    0.1%  Handler: An IC handler from the snapshot
+      2    0.1%    0.1%  Builtin: JSConstructStubGeneric
+      2    0.1%    0.1%  Builtin: FunctionHasInstance
+      2    0.1%    0.1%  Builtin: Call_ReceiverIsAny
+      1    0.0%    0.0%  Stub: VectorStoreICStub
+      1    0.0%    0.0%  Stub: TypeofStub
+      1    0.0%    0.0%  Stub: ToNameStub
+      1    0.0%    0.0%  Stub: ToLengthStub
+      1    0.0%    0.0%  Stub: ToBooleanICStub(Undefined,SpecObject)
+      1    0.0%    0.0%  Stub: ToBooleanICStub(Smi)
+      1    0.0%    0.0%  Stub: ToBooleanICStub
+      1    0.0%    0.0%  Stub: StringEqualStub
+      1    0.0%    0.0%  Stub: StringAddStub_ConvertRight_NotTenured
+      1    0.0%    0.0%  Stub: StrictEqualStub
+      1    0.0%    0.0%  Stub: StoreTransitionStub
+      1    0.0%    0.0%  Stub: StoreFieldStub {2}
+      1    0.0%    0.0%  Stub: StoreFieldStub {1}
+      1    0.0%    0.0%  Stub: StoreFieldStub
+      1    0.0%    0.0%  Stub: RegExpExecStub
+      1    0.0%    0.0%  Stub: RecordWriteStub
+      1    0.0%    0.0%  Stub: LoadFieldStub {1}
+      1    0.0%    0.0%  Stub: LoadFieldStub
+      1    0.0%    0.0%  Stub: LoadConstantStub
+      1    0.0%    0.0%  Stub: InternalArraySingleArgumentConstructorStub
+      1    0.0%    0.0%  Stub: InternalArrayNoArgumentConstructorStub
+      1    0.0%    0.0%  Stub: GrowArrayElementsStub
+      1    0.0%    0.0%  Stub: FastNewSloppyArgumentsStub
+      1    0.0%    0.0%  Stub: FastNewObjectStub
+      1    0.0%    0.0%  Stub: FastNewClosureStub {1}
+      1    0.0%    0.0%  Stub: FastCloneRegExpStub
+      1    0.0%    0.0%  Stub: CreateWeakCellStub
+      1    0.0%    0.0%  Stub: CompareICStub {1}
+      1    0.0%    0.0%  Stub: CompareICStub
+      1    0.0%    0.0%  Stub: CallConstructStub
+      1    0.0%    0.0%  Stub: BinaryOpICWithAllocationSiteStub(ADD_CreateAllocationMementos:String*String->String)
+      1    0.0%    0.0%  Script: ~/home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/lib/admin/appforms/submissions.js
+      1    0.0%    0.0%  RegExp: ^[/]*
+      1    0.0%    0.0%  RegExp: ^Date$
+      1    0.0%    0.0%  LazyCompile: ~socketOnWrap _http_server.js:588:22
+      1    0.0%    0.0%  LazyCompile: ~set /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/application.js:352:23
+      1    0.0%    0.0%  LazyCompile: ~originalurl /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/parseurl/index.js:65:22
+      1    0.0%    0.0%  LazyCompile: ~isArrayLike /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/node_modules/underscore/underscore.js:137:29
+      1    0.0%    0.0%  LazyCompile: ~getLogMessageURL /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/lib/cloud/fh-reports.js:80:26
+      1    0.0%    0.0%  LazyCompile: ~get flags native regexp.js:795:24
+      1    0.0%    0.0%  LazyCompile: ~fs.readFileSync fs.js:496:27
+      1    0.0%    0.0%  LazyCompile: ~fs.fstatSync fs.js:988:24
+      1    0.0%    0.0%  LazyCompile: ~emit events.js:136:44
+      1    0.0%    0.0%  LazyCompile: ~dirname path.js:1330:28
+      1    0.0%    0.0%  LazyCompile: ~depd /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/depd/index.js:106:15
+      1    0.0%    0.0%  LazyCompile: ~checkIsHttpToken _http_common.js:267:26
+      1    0.0%    0.0%  LazyCompile: ~basename path.js:1359:30
+      1    0.0%    0.0%  LazyCompile: ~assertEncoding fs.js:127:24
+      1    0.0%    0.0%  LazyCompile: ~afterDns dgram.js:361:20
+      1    0.0%    0.0%  LazyCompile: ~_flushOutput _http_outgoing.js:666:63
+      1    0.0%    0.0%  LazyCompile: ~_addListener events.js:210:22
+      1    0.0%    0.0%  LazyCompile: ~[Symbol.split] native regexp.js:355:29
+      1    0.0%    0.0%  LazyCompile: ~[Symbol.split] native regexp.js:298:21
+      1    0.0%    0.0%  LazyCompile: ~[Symbol.match] native regexp.js:430:29
+      1    0.0%    0.0%  LazyCompile: ~Url.parse url.js:79:31
+      1    0.0%    0.0%  LazyCompile: ~Url url.js:13:13
+      1    0.0%    0.0%  LazyCompile: ~Uint8Array native typedarray.js:241:31
+      1    0.0%    0.0%  LazyCompile: ~ServerResponse.writeHead _http_server.js:160:46
+      1    0.0%    0.0%  LazyCompile: ~Readable.isPaused _stream_readable.js:143:39
+      1    0.0%    0.0%  LazyCompile: ~OutgoingMessage.end _http_outgoing.js:547:41
+      1    0.0%    0.0%  LazyCompile: ~Module._load module.js:412:24
+      1    0.0%    0.0%  LazyCompile: ~Mime.define /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/send/node_modules/mime/mime.js:21:34
+      1    0.0%    0.0%  LazyCompile: ~GetStackFrames native messages.js:536:24
+      1    0.0%    0.0%  LazyCompile: ~Caseless.has /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/node_modules/caseless/index.js:18:35
+      1    0.0%    0.0%  LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/request/node_modules/http-signature/node_modules/jsprim/node_modules/assert-plus/assert.js:114:27
+      1    0.0%    0.0%  LazyCompile: tryStatSync fs.js:460:21
+      1    0.0%    0.0%  LazyCompile: formatValue util.js:300:21
+      1    0.0%    0.0%  LazyCompile: *runInThisContext vm.js:96:26
+      1    0.0%    0.0%  LazyCompile: *realpathSync fs.js:1606:40
+      1    0.0%    0.0%  LazyCompile: *exec native regexp.js:116:30
+      1    0.0%    0.0%  LazyCompile: *dirname path.js:1330:28
+      1    0.0%    0.0%  LazyCompile: *_addListener events.js:210:22
+      1    0.0%    0.0%  LazyCompile: *ToPositiveInteger native runtime.js:27:27
+      1    0.0%    0.0%  LazyCompile: *StackPush native array.js:114:19
+      1    0.0%    0.0%  LazyCompile: *Module._nodeModulePaths module.js:273:37
+      1    0.0%    0.0%  LazyCompile: *HashToEntry native collection.js:22:21
+      1    0.0%    0.0%  LazyCompile: *FastBuffer buffer.js:10:14
+      1    0.0%    0.0%  LazyCompile: *Buffer.allocUnsafe buffer.js:139:30
+      1    0.0%    0.0%  LazyCompile: *<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/node_modules/fh-logger/node_modules/continuation-local-storage/node_modules/async-listener/index.js:524:23
+      1    0.0%    0.0%  KeyedStoreIC: A keyed store IC from the snapshot {1}
+      1    0.0%    0.0%  Handler: writev
+      1    0.0%    0.0%  Handler: update
+      1    0.0%    0.0%  Handler: type
+      1    0.0%    0.0%  Handler: require
+      1    0.0%    0.0%  Handler: once
+      1    0.0%    0.0%  Handler: deploy
+      1    0.0%    0.0%  Handler: callback
+      1    0.0%    0.0%  Handler: call
+      1    0.0%    0.0%  Handler: _etag
+      1    0.0%    0.0%  Handler: DEBUG_MIME
+      1    0.0%    0.0%  Handler: Array
+      1    0.0%    0.0%  Handler: An IC handler from the snapshot {3}
+      1    0.0%    0.0%  Handler: An IC handler from the snapshot {2}
+      1    0.0%    0.0%  Handler: An IC handler from the snapshot {1}
+      1    0.0%    0.0%  Function: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:1427:44
+      1    0.0%    0.0%  Function: ~<anonymous> tls.js:1:11
+      1    0.0%    0.0%  Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/mime/mime.js:1:11
+      1    0.0%    0.0%  Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/express/index.js:1:11
+      1    0.0%    0.0%  Builtin: JSConstructStubApi
+      1    0.0%    0.0%  Builtin: HandleApiCall
+
+ [C++]:
+   ticks  total  nonlib   name
+    601   19.6%   20.5%  node::ContextifyScript::New(v8::FunctionCallbackInfo<v8::Value> const&)
+    176    5.7%    6.0%  node::crypto::Hmac::HmacDigest(v8::FunctionCallbackInfo<v8::Value> const&)
+    159    5.2%    5.4%  syscall
+     79    2.6%    2.7%  __lll_unlock_wake
+     72    2.3%    2.5%  __write
+     63    2.1%    2.1%  sha256_block_data_order_ssse3
+     40    1.3%    1.4%  node::crypto::Hmac::HmacUpdate(v8::FunctionCallbackInfo<v8::Value> const&)
+     36    1.2%    1.2%  node::crypto::Hmac::New(v8::FunctionCallbackInfo<v8::Value> const&)
+     29    0.9%    1.0%  v8::internal::Heap::AllocateFixedArray(int, v8::internal::PretenureFlag)
+     24    0.8%    0.8%  __xstat
+     21    0.7%    0.7%  void node::StreamBase::JSMethod<node::StreamWrap, &(int node::StreamBase::WriteString<(node::encoding)1>(v8::FunctionCallbackInfo<v8::Value> const&))>(v8::FunctionCallbackInfo<v8::Value> const&)
+     18    0.6%    0.6%  v8::internal::(anonymous namespace)::HandleApiCallHelper(v8::internal::Isolate*, v8::internal::(anonymous namespace)::BuiltinArguments<(v8::internal::BuiltinExtraArguments)3>)
+     18    0.6%    0.6%  node::cares_wrap::GetAddrInfo(v8::FunctionCallbackInfo<v8::Value> const&)
+     17    0.6%    0.6%  v8::internal::BasicJsonStringifier::SerializeString(v8::internal::Handle<v8::internal::String>)
+     17    0.6%    0.6%  node::InternalModuleReadFile(v8::FunctionCallbackInfo<v8::Value> const&)
+     15    0.5%    0.5%  void node::StreamBase::JSMethod<node::StreamWrap, &node::StreamBase::Writev>(v8::FunctionCallbackInfo<v8::Value> const&)
+     15    0.5%    0.5%  __libc_malloc
+     13    0.4%    0.4%  void v8::internal::String::WriteToFlat<unsigned char>(v8::internal::String*, unsigned char*, int, int)
+     11    0.4%    0.4%  v8::String::WriteUtf8(char*, int, int*, int) const
+     11    0.4%    0.4%  node::crypto::Hash::HashUpdate(v8::FunctionCallbackInfo<v8::Value> const&)
+     11    0.4%    0.4%  node::Buffer::Utf8Slice(v8::FunctionCallbackInfo<v8::Value> const&)
+     10    0.3%    0.3%  void v8::internal::StringHasher::AddCharacters<unsigned char>(unsigned char const*, int)
+     10    0.3%    0.3%  v8::internal::TransitionArray::Insert(v8::internal::Handle<v8::internal::Map>, v8::internal::Handle<v8::internal::Name>, v8::internal::Handle<v8::internal::Map>, v8::internal::SimpleTransitionFlag)
+     10    0.3%    0.3%  _IO_vfprintf
+     10    0.3%    0.3%  HMAC_Init_ex
+      9    0.3%    0.3%  v8::internal::InnerPointerToCodeCache::GetCacheEntry(unsigned char*)
+      9    0.3%    0.3%  v8::internal::DescriptorArray::CopyFrom(int, v8::internal::DescriptorArray*)
+      8    0.3%    0.3%  void v8::internal::BodyDescriptorBase::IterateBodyImpl<v8::internal::StaticScavengeVisitor>(v8::internal::Heap*, v8::internal::HeapObject*, int, int)
+      8    0.3%    0.3%  v8::internal::String::ComputeAndSetHash()
+      8    0.3%    0.3%  node::crypto::SecureContext::AddRootCerts(v8::FunctionCallbackInfo<v8::Value> const&)
+      8    0.3%    0.3%  int v8::internal::BinarySearch<(v8::internal::SearchMode)1, v8::internal::DescriptorArray>(v8::internal::DescriptorArray*, v8::internal::Name*, int, int*)
+      7    0.2%    0.2%  v8::internal::String::SlowEquals(v8::internal::String*)
+      7    0.2%    0.2%  v8::internal::IncrementalMarking::Step(long, v8::internal::IncrementalMarking::CompletionAction, v8::internal::IncrementalMarking::ForceMarkingAction, v8::internal::IncrementalMarking::ForceCompletionAction)
+      7    0.2%    0.2%  node::ContextifyScript::RunInThisContext(v8::FunctionCallbackInfo<v8::Value> const&)
+      6    0.2%    0.2%  v8::internal::Zone::New(unsigned long)
+      6    0.2%    0.2%  v8::internal::Runtime_StringToNumber(int, v8::internal::Object**, v8::internal::Isolate*)
+      6    0.2%    0.2%  v8::internal::NameDictionaryBase<v8::internal::NameDictionary, v8::internal::NameDictionaryShape>::FindEntry(v8::internal::Handle<v8::internal::Name>)
+      6    0.2%    0.2%  v8::internal::JSObject::MigrateToMap(v8::internal::Handle<v8::internal::JSObject>, v8::internal::Handle<v8::internal::Map>, int)
+      6    0.2%    0.2%  v8::internal::IncrementalMarking::RecordWriteSlow(v8::internal::HeapObject*, v8::internal::Object**, v8::internal::Object*)
+      6    0.2%    0.2%  v8::internal::IncrementalMarking::MarkObject(v8::internal::Heap*, v8::internal::HeapObject*)
+      6    0.2%    0.2%  v8::internal::FixedArray::set(int, v8::internal::Object*)
+      6    0.2%    0.2%  _init
+      6    0.2%    0.2%  __lll_lock_wait
+      6    0.2%    0.2%  EVP_MD_CTX_init
+      5    0.2%    0.2%  void v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)1, (v8::internal::LoggingAndProfiling)0>::EvacuateObject<(v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)1, (v8::internal::LoggingAndProfiling)0>::ObjectContents)1, (v8::internal::AllocationAlignment)0>(v8::internal::Map*, v8::internal::HeapObject**, v8::internal::HeapObject*, int)
+      5    0.2%    0.2%  v8::internal::StubCache::Set(v8::internal::Name*, v8::internal::Map*, v8::internal::Code*)
+      5    0.2%    0.2%  v8::internal::String::IsOneByteEqualTo(v8::internal::Vector<unsigned char const>)
+      5    0.2%    0.2%  v8::internal::Scanner::Scan()
+      5    0.2%    0.2%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseAssignmentExpression(bool, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      5    0.2%    0.2%  v8::internal::JsonParser<true>::AdvanceSkipWhitespace()
+      5    0.2%    0.2%  v8::internal::JSTypedArray::GetBuffer()
+      5    0.2%    0.2%  v8::internal::JSObjectWalkVisitor<v8::internal::AllocationSiteUsageContext>::StructureWalk(v8::internal::Handle<v8::internal::JSObject>)
+      5    0.2%    0.2%  v8::internal::Heap::Scavenge()
+      5    0.2%    0.2%  v8::internal::Heap::AllocateRaw(int, v8::internal::AllocationSpace, v8::internal::AllocationAlignment)
+      5    0.2%    0.2%  v8::internal::FunctionTemplateInfo::GetCompatibleReceiver(v8::internal::Isolate*, v8::internal::Object*)
+      5    0.2%    0.2%  v8::Value::IsUint8Array() const
+      5    0.2%    0.2%  lh_strhash
+      5    0.2%    0.2%  _ZN2v88internal19TemplateHashMapImplINS0_25FreeStoreAllocationPolicyEE14LookupOrInsertEPvjS2_.isra.49
+      4    0.1%    0.1%  v8::internal::String::ToNumber(v8::internal::Handle<v8::internal::String>)
+      4    0.1%    0.1%  v8::internal::Scanner::SkipMultiLineComment()
+      4    0.1%    0.1%  v8::internal::Scanner::ScanIdentifierOrKeyword()
+      4    0.1%    0.1%  v8::internal::RelocIterator::next()
+      4    0.1%    0.1%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseBinaryExpression(int, bool, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      4    0.1%    0.1%  v8::internal::Parser::ParseSubStatement(v8::internal::ZoneList<v8::internal::AstRawString const*>*, v8::internal::AllowLabelledFunctionStatement, bool*)
+      4    0.1%    0.1%  v8::internal::Map::RawCopy(v8::internal::Handle<v8::internal::Map>, int)
+      4    0.1%    0.1%  v8::internal::Map::FindInCodeCache(v8::internal::Name*, unsigned int)
+      4    0.1%    0.1%  v8::internal::Heap::IteratePromotedObjectPointers(v8::internal::HeapObject*, unsigned char*, unsigned char*, bool, void (*)(v8::internal::HeapObject**, v8::internal::HeapObject*))
+      4    0.1%    0.1%  v8::internal::HInstruction::InsertAfter(v8::internal::HInstruction*)
+      4    0.1%    0.1%  v8::internal::Factory::CopyJSObject(v8::internal::Handle<v8::internal::JSObject>)
+      4    0.1%    0.1%  v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
+      4    0.1%    0.1%  v8::internal::(anonymous namespace)::InstantiateObject(v8::internal::Isolate*, v8::internal::Handle<v8::internal::ObjectTemplateInfo>, v8::internal::Handle<v8::internal::JSReceiver>, bool)
+      4    0.1%    0.1%  v8::internal::(anonymous namespace)::CopyObjectToObjectElements(v8::internal::FixedArrayBase*, v8::internal::ElementsKind, unsigned int, v8::internal::FixedArrayBase*, v8::internal::ElementsKind, unsigned int, int)
+      4    0.1%    0.1%  v8::Isolate::GetCurrentContext()
+      4    0.1%    0.1%  node::Stat(v8::FunctionCallbackInfo<v8::Value> const&)
+      4    0.1%    0.1%  node::Open(v8::FunctionCallbackInfo<v8::Value> const&)
+      4    0.1%    0.1%  node::Binding(v8::FunctionCallbackInfo<v8::Value> const&)
+      4    0.1%    0.1%  brk
+      4    0.1%    0.1%  bool v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)0, (v8::internal::LoggingAndProfiling)0>::PromoteObject<(v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)0, (v8::internal::LoggingAndProfiling)0>::ObjectContents)1, (v8::internal::AllocationAlignment)0>(v8::internal::Map*, v8::internal::HeapObject**, v8::internal::HeapObject*, int)
+      4    0.1%    0.1%  __pthread_getspecific
+      4    0.1%    0.1%  __libc_free
+      4    0.1%    0.1%  __fxstat
+      4    0.1%    0.1%  _IO_fwrite
+      4    0.1%    0.1%  _IO_default_xsputn
+      3    0.1%    0.1%  void v8::internal::BodyDescriptorBase::IteratePointers<v8::internal::IncrementalMarkingMarkingVisitor>(v8::internal::Heap*, v8::internal::HeapObject*, int, int)
+      3    0.1%    0.1%  void node::Buffer::StringWrite<(node::encoding)1>(v8::FunctionCallbackInfo<v8::Value> const&)
+      3    0.1%    0.1%  v8::internal::TransitionArray::SearchTransition(v8::internal::Map*, v8::internal::PropertyKind, v8::internal::Name*, v8::internal::PropertyAttributes)
+      3    0.1%    0.1%  v8::internal::TemplateHashMapImpl<v8::internal::ZoneAllocationPolicy>::LookupOrInsert(void*, unsigned int, v8::internal::ZoneAllocationPolicy)
+      3    0.1%    0.1%  v8::internal::String::ToCString(v8::internal::AllowNullsFlag, v8::internal::RobustnessFlag, int, int, int*)
+      3    0.1%    0.1%  v8::internal::String::SlowFlatten(v8::internal::Handle<v8::internal::ConsString>, v8::internal::PretenureFlag)
+      3    0.1%    0.1%  v8::internal::Scope::LookupLocal(v8::internal::AstRawString const*)
+      3    0.1%    0.1%  v8::internal::Scanner::Next()
+      3    0.1%    0.1%  v8::internal::RelocIterator::RelocIterator(v8::internal::Code*, int)
+      3    0.1%    0.1%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParsePrimaryExpression(v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      3    0.1%    0.1%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseLeftHandSideExpression(v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      3    0.1%    0.1%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseAndClassifyIdentifier(v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      3    0.1%    0.1%  v8::internal::Object::SetPropertyInternal(v8::internal::LookupIterator*, v8::internal::Handle<v8::internal::Object>, v8::internal::LanguageMode, v8::internal::Object::StoreFromKeyed, bool*)
+      3    0.1%    0.1%  v8::internal::Map::NumberOfFields()
+      3    0.1%    0.1%  v8::internal::LookupIterator::WriteDataValue(v8::internal::Handle<v8::internal::Object>)
+      3    0.1%    0.1%  v8::internal::JsonParser<false>::Advance()
+      3    0.1%    0.1%  v8::internal::JSTypedArray::type()
+      3    0.1%    0.1%  v8::internal::JSReceiver::class_name()
+      3    0.1%    0.1%  v8::internal::IsUnmodifiedHeapObject(v8::internal::Object**)
+      3    0.1%    0.1%  v8::internal::Heap::RecordWrite(v8::internal::Object*, int, v8::internal::Object*)
+      3    0.1%    0.1%  v8::internal::Heap::DoScavenge(v8::internal::ObjectVisitor*, unsigned char*)
+      3    0.1%    0.1%  v8::internal::Heap::AllocateJSObject(v8::internal::JSFunction*, v8::internal::PretenureFlag, v8::internal::AllocationSite*)
+      3    0.1%    0.1%  v8::internal::Heap::AllocateCode(int, bool)
+      3    0.1%    0.1%  v8::internal::Handle<v8::internal::String> v8::internal::JsonParser<true>::SlowScanJsonString<v8::internal::SeqOneByteString, unsigned char>(v8::internal::Handle<v8::internal::String>, int, int)
+      3    0.1%    0.1%  v8::internal::Handle<v8::internal::String> v8::internal::JsonParser<true>::ScanJsonString<true>()
+      3    0.1%    0.1%  v8::internal::GlobalHandles::IterateNewSpaceWeakUnmodifiedRoots(v8::internal::ObjectVisitor*)
+      3    0.1%    0.1%  v8::internal::Factory::NewFixedArray(int, v8::internal::PretenureFlag)
+      3    0.1%    0.1%  v8::internal::CodeStub::GetCode()
+      3    0.1%    0.1%  v8::internal::AstValueFactory::GetOneByteStringInternal(v8::internal::Vector<unsigned char const>)
+      3    0.1%    0.1%  v8::Value::ToString(v8::Local<v8::Context>) const
+      3    0.1%    0.1%  v8::HandleScope::~HandleScope()
+      3    0.1%    0.1%  std::locale::locale()
+      3    0.1%    0.1%  sem_post
+      3    0.1%    0.1%  node::WriteBuffer(v8::FunctionCallbackInfo<v8::Value> const&)
+      3    0.1%    0.1%  node::LStat(v8::FunctionCallbackInfo<v8::Value> const&)
+      3    0.1%    0.1%  node::Buffer::CreateFromString(v8::FunctionCallbackInfo<v8::Value> const&)
+      3    0.1%    0.1%  __pthread_mutex_unlock
+      3    0.1%    0.1%  EVP_DigestInit_ex
+      2    0.1%    0.1%  wcrtomb
+      2    0.1%    0.1%  void v8::internal::String::WriteToFlat<unsigned short>(v8::internal::String*, unsigned short*, int, int)
+      2    0.1%    0.1%  void v8::internal::Scanner::Advance<false, true>()
+      2    0.1%    0.1%  void std::__introsort_loop<v8::internal::Smi**, long, v8::internal::EnumIndexComparator<v8::internal::NameDictionary> >(v8::internal::Smi**, v8::internal::Smi**, long, v8::internal::EnumIndexComparator<v8::internal::NameDictionary>)
+      2    0.1%    0.1%  v8::internal::compiler::GraphTrimmer::TrimGraph()
+      2    0.1%    0.1%  v8::internal::compiler::GraphReducer::ReduceTop()
+      2    0.1%    0.1%  v8::internal::VariableProxy::VariableProxy(v8::internal::Zone*, v8::internal::AstRawString const*, v8::internal::Variable::Kind, int, int)
+      2    0.1%    0.1%  v8::internal::Variable::Variable(v8::internal::Scope*, v8::internal::AstRawString const*, v8::internal::VariableMode, v8::internal::Variable::Kind, v8::internal::InitializationFlag, v8::internal::MaybeAssignedFlag)
+      2    0.1%    0.1%  v8::internal::StoreIC::CompileHandler(v8::internal::LookupIterator*, v8::internal::Handle<v8::internal::Object>, v8::internal::CacheHolderFlag)
+      2    0.1%    0.1%  v8::internal::StaticMarkingVisitor<v8::internal::IncrementalMarkingMarkingVisitor>::MarkMapContents(v8::internal::Heap*, v8::internal::Map*)
+      2    0.1%    0.1%  v8::internal::SeqOneByteSubStringKey::Hash()
+      2    0.1%    0.1%  v8::internal::Scope::Scope(v8::internal::Zone*, v8::internal::Scope*, v8::internal::ScopeType, v8::internal::AstValueFactory*, v8::internal::FunctionKind)
+      2    0.1%    0.1%  v8::internal::Scope::LookupRecursive(v8::internal::VariableProxy*, v8::internal::Scope::BindingKind*, v8::internal::AstNodeFactory*)
+      2    0.1%    0.1%  v8::internal::Scope::AllocateNonParameterLocalsAndDeclaredGlobals(v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)0, (v8::internal::LoggingAndProfiling)0>::EvacuateJSFunction(v8::internal::Map*, v8::internal::HeapObject**, v8::internal::HeapObject*)
+      2    0.1%    0.1%  v8::internal::Runtime_TypedArrayGetBuffer(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Runtime_StringEqual(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Runtime_LoadIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Runtime_CreateObjectLiteral(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::RelocInfoWriter::Write(v8::internal::RelocInfo const*)
+      2    0.1%    0.1%  v8::internal::PropertyHandlerCompiler::CheckPrototypes(v8::internal::Register, v8::internal::Register, v8::internal::Register, v8::internal::Register, v8::internal::Handle<v8::internal::Name>, v8::internal::Label*, v8::internal::PrototypeCheckType, v8::internal::ReturnHolder)
+      2    0.1%    0.1%  v8::internal::PropertyAccessCompiler::TailCallBuiltin(v8::internal::MacroAssembler*, v8::internal::Builtins::Name)
+      2    0.1%    0.1%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseMemberExpressionContinuation(v8::internal::Expression*, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      2    0.1%    0.1%  v8::internal::ParserBase<v8::internal::ParserTraits>::BindingPatternUnexpectedToken(v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*)
+      2    0.1%    0.1%  v8::internal::Parser::Parser(v8::internal::ParseInfo*)
+      2    0.1%    0.1%  v8::internal::Parser::ParseFunctionLiteral(v8::internal::AstRawString const*, v8::internal::Scanner::Location, v8::internal::FunctionNameValidity, v8::internal::FunctionKind, int, v8::internal::FunctionLiteral::FunctionType, v8::internal::LanguageMode, bool*)
+      2    0.1%    0.1%  v8::internal::Parser::ParseBlock(v8::internal::ZoneList<v8::internal::AstRawString const*>*, bool, bool*)
+      2    0.1%    0.1%  v8::internal::Parser::NewUnresolved(v8::internal::AstRawString const*, v8::internal::VariableMode)
+      2    0.1%    0.1%  v8::internal::PagedSpace::AllocateRawUnaligned(int, v8::internal::PagedSpace::UpdateSkipList)
+      2    0.1%    0.1%  v8::internal::OrderedHashTable<v8::internal::OrderedHashSet, v8::internal::JSSetIterator, 1>::Rehash(v8::internal::Handle<v8::internal::OrderedHashSet>, int)
+      2    0.1%    0.1%  v8::internal::Operand::Operand(v8::internal::Register, int)
+      2    0.1%    0.1%  v8::internal::Object::GetSimpleHash()
+      2    0.1%    0.1%  v8::internal::Object::GetProperty(v8::internal::LookupIterator*)
+      2    0.1%    0.1%  v8::internal::Object::BooleanValue()
+      2    0.1%    0.1%  v8::internal::Map::IsUnboxedDoubleField(v8::internal::FieldIndex)
+      2    0.1%    0.1%  v8::internal::Map::EnsureDescriptorSlack(v8::internal::Handle<v8::internal::Map>, int)
+      2    0.1%    0.1%  v8::internal::LookupIterator::PropertyOrElement(v8::internal::Isolate*, v8::internal::Handle<v8::internal::Object>, v8::internal::Handle<v8::internal::Object>, bool*, v8::internal::LookupIterator::Configuration)
+      2    0.1%    0.1%  v8::internal::LoadIC::Load(v8::internal::Handle<v8::internal::Object>, v8::internal::Handle<v8::internal::Name>)
+      2    0.1%    0.1%  v8::internal::LargeObjectSpace::FindPage(unsigned char*)
+      2    0.1%    0.1%  v8::internal::JsonParser<true>::ParseJsonValue()
+      2    0.1%    0.1%  v8::internal::JsonParser<true>::ParseJsonObject()
+      2    0.1%    0.1%  v8::internal::JsonParser<true>::ParseJsonArray()
+      2    0.1%    0.1%  v8::internal::JSObject::UpdateAllocationSite(v8::internal::Handle<v8::internal::JSObject>, v8::internal::ElementsKind)
+      2    0.1%    0.1%  v8::internal::IncrementalMarking::UpdateMarkingDequeAfterScavenge()
+      2    0.1%    0.1%  v8::internal::IC::UpdateState(v8::internal::Handle<v8::internal::Object>, v8::internal::Handle<v8::internal::Object>)
+      2    0.1%    0.1%  v8::internal::Heap::CreateFillerObjectAt(unsigned char*, int, v8::internal::ClearRecordedSlots)
+      2    0.1%    0.1%  v8::internal::HashTableBase::IsKey(v8::internal::Object*)
+      2    0.1%    0.1%  v8::internal::HashTable<v8::internal::StringTable, v8::internal::StringTableShape, v8::internal::HashTableKey*>::FindEntry(v8::internal::Isolate*, v8::internal::HashTableKey*)
+      2    0.1%    0.1%  v8::internal::HOptimizedGraphBuilder::VisitStatements(v8::internal::ZoneList<v8::internal::Statement*>*)
+      2    0.1%    0.1%  v8::internal::HOptimizedGraphBuilder::BuildNamedAccess(v8::internal::PropertyAccessType, v8::internal::BailoutId, v8::internal::BailoutId, v8::internal::Expression*, v8::internal::FeedbackVectorSlot, v8::internal::HValue*, v8::internal::Handle<v8::internal::Name>, v8::internal::HValue*, bool)
+      2    0.1%    0.1%  v8::internal::HInferRepresentationPhase::AddToWorklist(v8::internal::HValue*)
+      2    0.1%    0.1%  v8::internal::HCanonicalizePhase::Run()
+      2    0.1%    0.1%  v8::internal::GlobalHandles::DispatchPendingPhantomCallbacks(bool)
+      2    0.1%    0.1%  v8::internal::FunctionCallbackArguments::Call(void (*)(v8::FunctionCallbackInfo<v8::Value> const&))
+      2    0.1%    0.1%  v8::internal::Factory::NewSharedFunctionInfo(v8::internal::Handle<v8::internal::String>, v8::internal::MaybeHandle<v8::internal::Code>, bool)
+      2    0.1%    0.1%  v8::internal::Factory::NewConsString(v8::internal::Handle<v8::internal::String>, v8::internal::Handle<v8::internal::String>)
+      2    0.1%    0.1%  v8::internal::ExpressionClassifier<v8::internal::ParserTraits>::Accumulate(v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, unsigned int, bool)
+      2    0.1%    0.1%  v8::internal::ConsString::ConsStringGet(int)
+      2    0.1%    0.1%  v8::internal::Builtin_Impl_ObjectKeys(v8::internal::(anonymous namespace)::BuiltinArguments<(v8::internal::BuiltinExtraArguments)0>, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Block::Accept(v8::internal::AstVisitor*)
+      2    0.1%    0.1%  v8::internal::Assembler::emit_mov(v8::internal::Register, v8::internal::Operand const&, int)
+      2    0.1%    0.1%  v8::internal::AppendCodeCreateHeader(v8::internal::Log::MessageBuilder*, v8::internal::Logger::LogEventsAndTags, v8::internal::AbstractCode*)
+      2    0.1%    0.1%  v8::base::AccountingAllocator::Free(void*, unsigned long)
+      2    0.1%    0.1%  v8::RecursivelySerializeToUtf8(v8::internal::String*, v8::Utf8WriterVisitor*, int)
+      2    0.1%    0.1%  strchrnul
+      2    0.1%    0.1%  operator new(unsigned long)
+      2    0.1%    0.1%  operator delete[](void*)
+      2    0.1%    0.1%  node::crypto::Hmac::HmacInit(char const*, char const*, int)
+      2    0.1%    0.1%  node::crypto::Hash::New(v8::FunctionCallbackInfo<v8::Value> const&)
+      2    0.1%    0.1%  lh_retrieve
+      2    0.1%    0.1%  _ZN2v88internal20FunctionTemplateInfo13IsTemplateForEPNS0_3MapE.part.314
+      2    0.1%    0.1%  _IO_file_sync
+      2    0.1%    0.1%  SHA256_Init
+      2    0.1%    0.1%  HMAC_CTX_init
+      2    0.1%    0.1%  EVP_MD_CTX_copy_ex
+      2    0.1%    0.1%  ENGINE_get_digest_engine
+      2    0.1%    0.1%  CRYPTO_malloc
+      2    0.1%    0.1%  BN_usub
+      1    0.0%    0.0%  void v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)1, (v8::internal::LoggingAndProfiling)0>::ObjectEvacuationStrategy<(v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)1, (v8::internal::LoggingAndProfiling)0>::ObjectContents)1>::VisitSpecialized<32>(v8::internal::Map*, v8::internal::HeapObject**, v8::internal::HeapObject*)
+      1    0.0%    0.0%  void v8::internal::MarkCompactCollector::EvacuateVisitorBase::MigrateObject<(v8::internal::MarkCompactCollector::EvacuateVisitorBase::MigrationMode)1>(v8::internal::HeapObject*, v8::internal::HeapObject*, int, v8::internal::AllocationSpace)
+      1    0.0%    0.0%  void v8::internal::LookupIterator::Start<false>()
+      1    0.0%    0.0%  void v8::internal::LookupIterator::NextInternal<false>(v8::internal::Map*, v8::internal::JSReceiver*)
+      1    0.0%    0.0%  void v8::internal::BodyDescriptorApply<v8::internal::CallIterateBody, void, v8::internal::HeapObject*, int, v8::internal::ObjectVisitor*>(v8::internal::InstanceType, v8::internal::HeapObject*, int, v8::internal::ObjectVisitor*)
+      1    0.0%    0.0%  void v8::Utf8WriterVisitor::Visit<unsigned char>(unsigned char const*, int)
+      1    0.0%    0.0%  v8::internal::modulo(double, double)
+      1    0.0%    0.0%  v8::internal::compiler::Scheduler::UpdatePlacement(v8::internal::compiler::Node*, v8::internal::compiler::Scheduler::Placement)
+      1    0.0%    0.0%  v8::internal::compiler::Scheduler::PrepareUses()
+      1    0.0%    0.0%  v8::internal::compiler::Scheduler::FuseFloatingControl(v8::internal::compiler::BasicBlock*, v8::internal::compiler::Node*)
+      1    0.0%    0.0%  v8::internal::compiler::RepresentationSelector::VisitNode(v8::internal::compiler::Node*, v8::internal::compiler::Truncation, v8::internal::compiler::SimplifiedLowering*)
+      1    0.0%    0.0%  v8::internal::compiler::RepresentationSelector::ProcessInput(v8::internal::compiler::Node*, int, v8::internal::compiler::(anonymous namespace)::UseInfo)
+      1    0.0%    0.0%  v8::internal::compiler::RepresentationSelector::GetOutputInfoForPhi(v8::internal::compiler::Node*, v8::internal::compiler::Truncation)
+      1    0.0%    0.0%  v8::internal::compiler::RegisterAllocationData::GetOrCreateLiveRangeFor(int)
+      1    0.0%    0.0%  v8::internal::compiler::OperandAssigner::CommitAssignment()
+      1    0.0%    0.0%  v8::internal::compiler::LiveRange::FirstIntersection(v8::internal::compiler::LiveRange*) const
+      1    0.0%    0.0%  v8::internal::compiler::LinearScanAllocator::AllocateRegisters()
+      1    0.0%    0.0%  v8::internal::compiler::DeadCodeElimination::Reduce(v8::internal::compiler::Node*)
+      1    0.0%    0.0%  v8::internal::compiler::CommonNodeCache::FindHeapConstant(v8::internal::Handle<v8::internal::HeapObject>)
+      1    0.0%    0.0%  v8::internal::compiler::CodeGenerator::DefineDeoptimizationLiteral(v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::compiler::CodeGenerator::AssembleArchInstruction(v8::internal::compiler::Instruction*)
+      1    0.0%    0.0%  v8::internal::compiler::AstGraphBuilder::BuildHoleCheckThenThrow(v8::internal::compiler::Node*, v8::internal::Variable*, v8::internal::compiler::Node*, v8::internal::BailoutId)
+      1    0.0%    0.0%  v8::internal::compiler::(anonymous namespace)::AddOperandToStateValueDescriptor(v8::internal::compiler::StateValueDescriptor*, v8::internal::ZoneVector<v8::internal::compiler::InstructionOperand>*, v8::internal::compiler::OperandGenerator*, v8::internal::compiler::(anonymous namespace)::StateObjectDeduplicator*, v8::internal::compiler::Node*, v8::internal::MachineType, v8::internal::compiler::(anonymous namespace)::FrameStateInputKind, v8::internal::Zone*)
+      1    0.0%    0.0%  v8::internal::Zone::~Zone()
+      1    0.0%    0.0%  v8::internal::Zone::Zone(v8::base::AccountingAllocator*)
+      1    0.0%    0.0%  v8::internal::VariableProxy::AssignFeedbackVectorSlots(v8::internal::Isolate*, v8::internal::FeedbackVectorSpec*, v8::internal::FeedbackVectorSlotCache*)
+      1    0.0%    0.0%  v8::internal::VariableProxy::Accept(v8::internal::AstVisitor*)
+      1    0.0%    0.0%  v8::internal::TypeFeedbackMetadata::SpecDiffersFrom(v8::internal::FeedbackVectorSpec const*) const
+      1    0.0%    0.0%  v8::internal::TransitionArray::SearchDetails(int, v8::internal::PropertyKind, v8::internal::PropertyAttributes, int*)
+      1    0.0%    0.0%  v8::internal::TransitionArray::Search(v8::internal::PropertyKind, v8::internal::Name*, v8::internal::PropertyAttributes, int*)
+      1    0.0%    0.0%  v8::internal::TransitionArray::NumberOfTransitions(v8::internal::Object*)
+      1    0.0%    0.0%  v8::internal::TransitionArray::FindTransitionToField(v8::internal::Handle<v8::internal::Map>, v8::internal::Handle<v8::internal::Name>)
+      1    0.0%    0.0%  v8::internal::TransitionArray::ExpectedTransitionKey(v8::internal::Handle<v8::internal::Map>)
+      1    0.0%    0.0%  v8::internal::ToBooleanIC::ToBoolean(v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::StringTable::LookupString(v8::internal::Isolate*, v8::internal::Handle<v8::internal::String>)
+      1    0.0%    0.0%  v8::internal::StringReplaceGlobalRegExpWithString(v8::internal::Isolate*, v8::internal::Handle<v8::internal::String>, v8::internal::Handle<v8::internal::JSRegExp>, v8::internal::Handle<v8::internal::String>, v8::internal::Handle<v8::internal::JSArray>)
+      1    0.0%    0.0%  v8::internal::StringMatch(v8::internal::Isolate*, v8::internal::Handle<v8::internal::String>, v8::internal::Handle<v8::internal::String>, int)
+      1    0.0%    0.0%  v8::internal::StringHasher::GetHashField()
+      1    0.0%    0.0%  v8::internal::String::GetFlatContent()
+      1    0.0%    0.0%  v8::internal::String::Flatten(v8::internal::Handle<v8::internal::String>, v8::internal::PretenureFlag)
+      1    0.0%    0.0%  v8::internal::String::CalculateLineEnds(v8::internal::Handle<v8::internal::String>, bool)
+      1    0.0%    0.0%  v8::internal::StoreIC::LookupForWrite(v8::internal::LookupIterator*, v8::internal::Handle<v8::internal::Object>, v8::internal::Object::StoreFromKeyed)
+      1    0.0%    0.0%  v8::internal::StoreBuffer::MoveEntriesToRememberedSet()
+      1    0.0%    0.0%  v8::internal::StaticVisitorBase::GetVisitorId(v8::internal::Map*)
+      1    0.0%    0.0%  v8::internal::StaticMarkingVisitor<v8::internal::IncrementalMarkingMarkingVisitor>::VisitSharedFunctionInfo(v8::internal::Map*, v8::internal::HeapObject*)
+      1    0.0%    0.0%  v8::internal::StaticMarkingVisitor<v8::internal::IncrementalMarkingMarkingVisitor>::VisitCode(v8::internal::Map*, v8::internal::HeapObject*)
+      1    0.0%    0.0%  v8::internal::StandardFrame::ComputeCallerState(v8::internal::StackFrame::State*) const
+      1    0.0%    0.0%  v8::internal::StackGuard::HandleInterrupts()
+      1    0.0%    0.0%  v8::internal::ScopeInfo::Create(v8::internal::Isolate*, v8::internal::Zone*, v8::internal::Scope*)
+      1    0.0%    0.0%  v8::internal::Scope::ResolveVariable(v8::internal::ParseInfo*, v8::internal::VariableProxy*, v8::internal::AstNodeFactory*)
+      1    0.0%    0.0%  v8::internal::Scope::PropagateScopeInfo(bool)
+      1    0.0%    0.0%  v8::internal::Scope::Initialize()
+      1    0.0%    0.0%  v8::internal::Scope::AllocateVariablesRecursively(v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Scavenger::ScavengeObject(v8::internal::HeapObject**, v8::internal::HeapObject*)
+      1    0.0%    0.0%  v8::internal::Scanner::SkipSingleLineComment()
+      1    0.0%    0.0%  v8::internal::Scanner::ScanRegExpPattern(bool)
+      1    0.0%    0.0%  v8::internal::Scanner::ScanNumber(bool)
+      1    0.0%    0.0%  v8::internal::Scanner::DoubleValue()
+      1    0.0%    0.0%  v8::internal::Scanner::CurrentSymbol(v8::internal::AstValueFactory*)
+      1    0.0%    0.0%  v8::internal::SaveContext::SaveContext(v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::SafepointTableBuilder::DefineSafepoint(v8::internal::Assembler*, v8::internal::Safepoint::Kind, int, v8::internal::Safepoint::DeoptMode)
+      1    0.0%    0.0%  v8::internal::Runtime_StoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_HasFastPackedElements(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_ClassOf(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::RepresentationFor(v8::internal::Type*)
+      1    0.0%    0.0%  v8::internal::RegExpImpl::IrregexpExecRaw(v8::internal::Handle<v8::internal::JSRegExp>, v8::internal::Handle<v8::internal::String>, int, int*, int)
+      1    0.0%    0.0%  v8::internal::PropertyDescriptor::ToPropertyDescriptor(v8::internal::Isolate*, v8::internal::Handle<v8::internal::Object>, v8::internal::PropertyDescriptor*)
+      1    0.0%    0.0%  v8::internal::Property::node_type() const
+      1    0.0%    0.0%  v8::internal::Property::Accept(v8::internal::AstVisitor*)
+      1    0.0%    0.0%  v8::internal::PostorderProcessor::PerformNonBacktrackingStep(v8::internal::Zone*, v8::internal::ZoneList<v8::internal::HBasicBlock*>*)
+      1    0.0%    0.0%  v8::internal::ParserTraits::ExpressionFromIdentifier(v8::internal::AstRawString const*, int, int, v8::internal::Scope*, v8::internal::AstNodeFactory*)
+      1    0.0%    0.0%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParsePropertyName(v8::internal::AstRawString const**, bool*, bool*, bool*, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      1    0.0%    0.0%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseFormalParameterList(v8::internal::ParserFormalParameters*, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      1    0.0%    0.0%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseExpression(bool, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      1    0.0%    0.0%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseConditionalExpression(bool, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      1    0.0%    0.0%  v8::internal::ParserBase<v8::internal::ParserTraits>::CheckOctalLiteral(int, int, v8::internal::MessageTemplate::Template, bool*)
+      1    0.0%    0.0%  v8::internal::ParserBase<v8::internal::ParserTraits>::CheckDestructuringElement(v8::internal::Expression*, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, int, int)
+      1    0.0%    0.0%  v8::internal::Parser::ParseStatementListItem(bool*)
+      1    0.0%    0.0%  v8::internal::Parser::ParseStatementList(v8::internal::ZoneList<v8::internal::Statement*>*, int, bool*)
+      1    0.0%    0.0%  v8::internal::Parser::ParseReturnStatement(bool*)
+      1    0.0%    0.0%  v8::internal::Parser::ParseIfStatement(v8::internal::ZoneList<v8::internal::AstRawString const*>*, bool*)
+      1    0.0%    0.0%  v8::internal::Parser::ParseFunctionDeclaration(int, bool, v8::internal::ZoneList<v8::internal::AstRawString const*>*, bool*)
+      1    0.0%    0.0%  v8::internal::Operand::Operand(v8::internal::Operand const&, int)
+      1    0.0%    0.0%  v8::internal::Object::SetProperty(v8::internal::LookupIterator*, v8::internal::Handle<v8::internal::Object>, v8::internal::LanguageMode, v8::internal::Object::StoreFromKeyed)
+      1    0.0%    0.0%  v8::internal::Object::SameValueZero(v8::internal::Object*)
+      1    0.0%    0.0%  v8::internal::Object::IsArray(v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::Object::GetPropertyWithAccessor(v8::internal::LookupIterator*)
+      1    0.0%    0.0%  v8::internal::NativeRegExpMacroAssembler::Match(v8::internal::Handle<v8::internal::Code>, v8::internal::Handle<v8::internal::String>, int*, int, int, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::NameDictionaryBase<v8::internal::GlobalDictionary, v8::internal::GlobalDictionaryShape>::FindEntry(v8::internal::Handle<v8::internal::Name>)
+      1    0.0%    0.0%  v8::internal::MarkCompactCollector::ClearWeakCells(v8::internal::Object**, v8::internal::DependentCode**)
+      1    0.0%    0.0%  v8::internal::Map::SetPrototype(v8::internal::Handle<v8::internal::Map>, v8::internal::Handle<v8::internal::Object>, v8::internal::PrototypeOptimizationMode)
+      1    0.0%    0.0%  v8::internal::Map::Reconfigure(v8::internal::Handle<v8::internal::Map>, v8::internal::ElementsKind, int, v8::internal::PropertyKind, v8::internal::PropertyAttributes, v8::internal::Representation, v8::internal::Handle<v8::internal::FieldType>, v8::internal::StoreMode)
+      1    0.0%    0.0%  v8::internal::Map::GetOrCreatePrototypeChainValidityCell(v8::internal::Handle<v8::internal::Map>, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Map::GetInitialElements()
+      1    0.0%    0.0%  v8::internal::Map::CopyAddDescriptor(v8::internal::Handle<v8::internal::Map>, v8::internal::Descriptor*, v8::internal::TransitionFlag)
+      1    0.0%    0.0%  v8::internal::MacroAssembler::Store(v8::internal::Operand const&, v8::internal::Register, v8::internal::Representation)
+      1    0.0%    0.0%  v8::internal::LookupIterator::GetDataValue() const
+      1    0.0%    0.0%  v8::internal::Log::MessageBuilder::AppendDetailed(v8::internal::String*, bool)
+      1    0.0%    0.0%  v8::internal::LoadIC::CompileHandler(v8::internal::LookupIterator*, v8::internal::Handle<v8::internal::Object>, v8::internal::CacheHolderFlag)
+      1    0.0%    0.0%  v8::internal::LoadConstantStub::MajorKey() const
+      1    0.0%    0.0%  v8::internal::LiveRange::SplitAt(v8::internal::LifetimePosition, v8::internal::LiveRange*, v8::internal::Zone*)
+      1    0.0%    0.0%  v8::internal::LiveRange::CreateAssignedOperand(v8::internal::Zone*)
+      1    0.0%    0.0%  v8::internal::LiveRange::Covers(v8::internal::LifetimePosition)
+      1    0.0%    0.0%  v8::internal::LiveObjectIterator<(v8::internal::LiveObjectIterationMode)0>::Next()
+      1    0.0%    0.0%  v8::internal::List<v8::internal::Statement*, v8::internal::ZoneAllocationPolicy>::Add(v8::internal::Statement* const&, v8::internal::ZoneAllocationPolicy)
+      1    0.0%    0.0%  v8::internal::LayoutDescriptor::New(v8::internal::Handle<v8::internal::Map>, v8::internal::Handle<v8::internal::DescriptorArray>, int)
+      1    0.0%    0.0%  v8::internal::Label::pos() const
+      1    0.0%    0.0%  v8::internal::LTemplateResultInstruction<0>::HasResult() const
+      1    0.0%    0.0%  v8::internal::LLoadContextSlot::opcode() const
+      1    0.0%    0.0%  v8::internal::LInstruction::IsControl() const
+      1    0.0%    0.0%  v8::internal::LGapResolver::BuildInitialMoveList(v8::internal::LParallelMove*)
+      1    0.0%    0.0%  v8::internal::LCodeGen::GenerateDeferredCode()
+      1    0.0%    0.0%  v8::internal::LAllocator::TraceAlloc(char const*, ...)
+      1    0.0%    0.0%  v8::internal::LAllocator::Define(v8::internal::LifetimePosition, v8::internal::LOperand*, v8::internal::LOperand*)
+      1    0.0%    0.0%  v8::internal::KeyedLoadICNexus::StateFromFeedback() const
+      1    0.0%    0.0%  v8::internal::KeyedLoadIC::LoadElementStub(v8::internal::Handle<v8::internal::HeapObject>)
+      1    0.0%    0.0%  v8::internal::KeyedGetObjectProperty(v8::internal::Isolate*, v8::internal::Handle<v8::internal::Object>, v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::JsonParser<false>::ParseJsonObject()
+      1    0.0%    0.0%  v8::internal::JSReceiver::DeleteNormalizedProperty(v8::internal::Handle<v8::internal::JSReceiver>, v8::internal::Handle<v8::internal::Name>, int)
+      1    0.0%    0.0%  v8::internal::JSReceiver::DefineProperty(v8::internal::Isolate*, v8::internal::Handle<v8::internal::Object>, v8::internal::Handle<v8::internal::Object>, v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::JSObject::DefinePropertyOrElementIgnoreAttributes(v8::internal::Handle<v8::internal::JSObject>, v8::internal::Handle<v8::internal::Name>, v8::internal::Handle<v8::internal::Object>, v8::internal::PropertyAttributes)
+      1    0.0%    0.0%  v8::internal::JSFunction::EnsureHasInitialMap(v8::internal::Handle<v8::internal::JSFunction>)
+      1    0.0%    0.0%  v8::internal::JSDate::New(v8::internal::Handle<v8::internal::JSFunction>, v8::internal::Handle<v8::internal::JSReceiver>, double)
+      1    0.0%    0.0%  v8::internal::IteratingStringHasher::VisitConsString(v8::internal::ConsString*)
+      1    0.0%    0.0%  v8::internal::Isolate::native_context()
+      1    0.0%    0.0%  v8::internal::Isolate::get_initial_js_array_map(v8::internal::ElementsKind)
+      1    0.0%    0.0%  v8::internal::IsUnscavengedHeapObject(v8::internal::Heap*, v8::internal::Object**)
+      1    0.0%    0.0%  v8::internal::IncrementalMarkingMarkingVisitor::VisitFixedArrayIncremental(v8::internal::Map*, v8::internal::HeapObject*)
+      1    0.0%    0.0%  v8::internal::IncrementalMarking::ProcessWeakCells()
+      1    0.0%    0.0%  v8::internal::IC::SetTargetAtAddress(unsigned char*, v8::internal::Code*, unsigned char*)
+      1    0.0%    0.0%  v8::internal::IC::IC(v8::internal::IC::FrameDepth, v8::internal::Isolate*, v8::internal::FeedbackNexus*)
+      1    0.0%    0.0%  v8::internal::IC::ComputeHandler(v8::internal::LookupIterator*, v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::HeapObject::synchronized_set_map(v8::internal::Map*)
+      1    0.0%    0.0%  v8::internal::Heap::LookupWeakObjectToCodeDependency(v8::internal::Handle<v8::internal::HeapObject>)
+      1    0.0%    0.0%  v8::internal::Heap::CopyJSObject(v8::internal::JSObject*, v8::internal::AllocationSite*)
+      1    0.0%    0.0%  v8::internal::Heap::CopyFixedArrayWithMap(v8::internal::FixedArray*, v8::internal::Map*)
+      1    0.0%    0.0%  v8::internal::Heap::CopyFixedArrayAndGrow(v8::internal::FixedArray*, int, v8::internal::PretenureFlag)
+      1    0.0%    0.0%  v8::internal::Heap::AllocateTransitionArray(int)
+      1    0.0%    0.0%  v8::internal::Heap::AllocateMap(v8::internal::InstanceType, int, v8::internal::ElementsKind)
+      1    0.0%    0.0%  v8::internal::Heap::Allocate(v8::internal::Map*, v8::internal::AllocationSpace, v8::internal::AllocationSite*)
+      1    0.0%    0.0%  v8::internal::HashTable<v8::internal::NameDictionary, v8::internal::NameDictionaryShape, v8::internal::Handle<v8::internal::Name> >::Rehash(v8::internal::Handle<v8::internal::NameDictionary>, v8::internal::Handle<v8::internal::Name>)
+      1    0.0%    0.0%  v8::internal::HashTable<v8::internal::NameDictionary, v8::internal::NameDictionaryShape, v8::internal::Handle<v8::internal::Name> >::Rehash(v8::internal::Handle<v8::internal::Name>)
+      1    0.0%    0.0%  v8::internal::Handle<v8::internal::TypeFeedbackMetadata> v8::internal::TypeFeedbackMetadata::New<v8::internal::FeedbackVectorSpec>(v8::internal::Isolate*, v8::internal::FeedbackVectorSpec const*)
+      1    0.0%    0.0%  v8::internal::Handle<v8::internal::String> v8::internal::JsonParser<false>::SlowScanJsonString<v8::internal::SeqTwoByteString, unsigned short>(v8::internal::Handle<v8::internal::String>, int, int)
+      1    0.0%    0.0%  v8::internal::Handle<v8::internal::String> v8::internal::JsonParser<false>::SlowScanJsonString<v8::internal::SeqOneByteString, unsigned char>(v8::internal::Handle<v8::internal::String>, int, int)
+      1    0.0%    0.0%  v8::internal::HValue::IsArithmeticBinaryOperation() const
+      1    0.0%    0.0%  v8::internal::HType::FromValue(v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::HStoreNamedField::opcode() const
+      1    0.0%    0.0%  v8::internal::HSimulate::opcode() const
+      1    0.0%    0.0%  v8::internal::HOptimizedGraphBuilder::PropertyAccessInfo::LoadResult(v8::internal::Handle<v8::internal::Map>)
+      1    0.0%    0.0%  v8::internal::HOptimizedGraphBuilder::PropertyAccessInfo::CanAccessMonomorphic()
+      1    0.0%    0.0%  v8::internal::HOptimizedGraphBuilder::HandlePolymorphicNamedFieldAccess(v8::internal::PropertyAccessType, v8::internal::Expression*, v8::internal::FeedbackVectorSlot, v8::internal::BailoutId, v8::internal::BailoutId, v8::internal::HValue*, v8::internal::HValue*, v8::internal::SmallMapList*, v8::internal::Handle<v8::internal::Name>)
+      1    0.0%    0.0%  v8::internal::HInstruction::InsertBefore(v8::internal::HInstruction*)
+      1    0.0%    0.0%  v8::internal::HInferRepresentationPhase::Run()
+      1    0.0%    0.0%  v8::internal::HGraphBuilder::BuildUncheckedMonomorphicElementAccess(v8::internal::HValue*, v8::internal::HValue*, v8::internal::HValue*, bool, v8::internal::ElementsKind, v8::internal::PropertyAccessType, v8::internal::LoadKeyedHoleMode, v8::internal::KeyedAccessStoreMode)
+      1    0.0%    0.0%  v8::internal::HGraphBuilder::AddInstruction(v8::internal::HInstruction*)
+      1    0.0%    0.0%  v8::internal::HGraph::GetConstantUndefined()
+      1    0.0%    0.0%  v8::internal::HGraph::GetConstantHole()
+      1    0.0%    0.0%  v8::internal::HGlobalValueNumberingPhase::ComputeBlockSideEffects()
+      1    0.0%    0.0%  v8::internal::HFlowEngine<v8::internal::HCheckTable, v8::internal::HCheckMapsEffects>::ComputeLoopEffects(v8::internal::HBasicBlock*)
+      1    0.0%    0.0%  v8::internal::HEnvironmentLivenessAnalysisPhase::Run()
+      1    0.0%    0.0%  v8::internal::HEnvironment::CreateStubEnvironment(v8::internal::HEnvironment*, v8::internal::Handle<v8::internal::JSFunction>, v8::internal::FrameType, int) const
+      1    0.0%    0.0%  v8::internal::HDeadCodeEliminationPhase::MarkLive(v8::internal::HValue*, v8::internal::ZoneList<v8::internal::HValue*>*)
+      1    0.0%    0.0%  v8::internal::HCheckTable::Copy(v8::internal::HBasicBlock*, v8::internal::HBasicBlock*, v8::internal::Zone*)
+      1    0.0%    0.0%  v8::internal::FunctionLiteral::node_type() const
+      1    0.0%    0.0%  v8::internal::FunctionLiteral::IsAnonymousFunctionDefinition() const
+      1    0.0%    0.0%  v8::internal::FunctionDeclaration::initialization() const
+      1    0.0%    0.0%  v8::internal::FuncNameInferrer::PushLiteralName(v8::internal::AstRawString const*)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::VisitIfStatement(v8::internal::IfStatement*)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::VisitForAccumulatorValue(v8::internal::Expression*)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::Visit(v8::internal::AstNode*)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::Split(v8::internal::Condition, v8::internal::Label*, v8::internal::Label*, v8::internal::Label*)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::Generate()
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::EmitVariableLoad(v8::internal::VariableProxy*, v8::internal::TypeofMode)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::EmitReturnSequence()
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::EmitNewClosure(v8::internal::Handle<v8::internal::SharedFunctionInfo>, bool)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::DoTest(v8::internal::Expression*, v8::internal::Label*, v8::internal::Label*, v8::internal::Label*)
+      1    0.0%    0.0%  v8::internal::FixedArray::set(int, v8::internal::Object*, v8::internal::WriteBarrierMode)
+      1    0.0%    0.0%  v8::internal::FeedbackNexus::ConfigurePremonomorphic()
+      1    0.0%    0.0%  v8::internal::Factory::NewSharedFunctionInfo(v8::internal::Handle<v8::internal::String>, int, v8::internal::FunctionKind, v8::internal::Handle<v8::internal::Code>, v8::internal::Handle<v8::internal::ScopeInfo>)
+      1    0.0%    0.0%  v8::internal::Factory::NewNumber(double, v8::internal::PretenureFlag)
+      1    0.0%    0.0%  v8::internal::Factory::NewJSObjectFromMap(v8::internal::Handle<v8::internal::Map>, v8::internal::PretenureFlag, v8::internal::Handle<v8::internal::AllocationSite>)
+      1    0.0%    0.0%  v8::internal::Factory::NewJSArrayWithElements(v8::internal::Handle<v8::internal::FixedArrayBase>, v8::internal::ElementsKind, int, v8::internal::PretenureFlag)
+      1    0.0%    0.0%  v8::internal::Factory::NewFunction(v8::internal::Handle<v8::internal::Map>, v8::internal::Handle<v8::internal::SharedFunctionInfo>, v8::internal::Handle<v8::internal::Context>, v8::internal::PretenureFlag)
+      1    0.0%    0.0%  v8::internal::Factory::NewCode(v8::internal::CodeDesc const&, unsigned int, v8::internal::Handle<v8::internal::Object>, bool, bool, int, bool)
+      1    0.0%    0.0%  v8::internal::ExpressionStatement::Accept(v8::internal::AstVisitor*)
+      1    0.0%    0.0%  v8::internal::EmptyStatement::node_type() const
+      1    0.0%    0.0%  v8::internal::EmitCharClass(v8::internal::RegExpMacroAssembler*, v8::internal::RegExpCharacterClass*, bool, v8::internal::Label*, int, bool, bool, v8::internal::Zone*)
+      1    0.0%    0.0%  v8::internal::DuplicateFinder::BackupKey(v8::internal::Vector<unsigned char const>, bool)
+      1    0.0%    0.0%  v8::internal::DescriptorArray::Sort()
+      1    0.0%    0.0%  v8::internal::DescriptorArray::Append(v8::internal::Descriptor*)
+      1    0.0%    0.0%  v8::internal::Deoptimizer::~Deoptimizer()
+      1    0.0%    0.0%  v8::internal::CreateArrayLiteralImpl(v8::internal::Isolate*, v8::internal::Handle<v8::internal::LiteralsArray>, int, v8::internal::Handle<v8::internal::FixedArray>, int)
+      1    0.0%    0.0%  v8::internal::Compiler::GetSharedFunctionInfo(v8::internal::FunctionLiteral*, v8::internal::Handle<v8::internal::Script>, v8::internal::CompilationInfo*)
+      1    0.0%    0.0%  v8::internal::Compiler::EnsureDeoptimizationSupport(v8::internal::CompilationInfo*)
+      1    0.0%    0.0%  v8::internal::CompilationInfo::~CompilationInfo()
+      1    0.0%    0.0%  v8::internal::CompilationInfo::ShouldSelfOptimize()
+      1    0.0%    0.0%  v8::internal::CompilationDependencies::Rollback()
+      1    0.0%    0.0%  v8::internal::CompareOperation::IsLiteralCompareTypeof(v8::internal::Expression**, v8::internal::Handle<v8::internal::String>*)
+      1    0.0%    0.0%  v8::internal::CompareICStub::UseSpecialCache()
+      1    0.0%    0.0%  v8::internal::CodeStub::UseSpecialCache()
+      1    0.0%    0.0%  v8::internal::CodeGenerator::PrintCode(v8::internal::Handle<v8::internal::Code>, v8::internal::CompilationInfo*)
+      1    0.0%    0.0%  v8::internal::Code::CopyFrom(v8::internal::CodeDesc const&)
+      1    0.0%    0.0%  v8::internal::Call::GetCallType(v8::internal::Isolate*) const
+      1    0.0%    0.0%  v8::internal::Call::AssignFeedbackVectorSlots(v8::internal::Isolate*, v8::internal::FeedbackVectorSpec*, v8::internal::FeedbackVectorSlotCache*)
+      1    0.0%    0.0%  v8::internal::Builtins::StackCheck()
+      1    0.0%    0.0%  v8::internal::Builtins::KeyedLoadIC_Megamorphic()
+      1    0.0%    0.0%  v8::internal::Builtin_Impl_DateConstructor_ConstructStub(v8::internal::(anonymous namespace)::BuiltinArguments<(v8::internal::BuiltinExtraArguments)3>, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_ArrayIsArray(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::BinaryOpIC::Transition(v8::internal::Handle<v8::internal::AllocationSite>, v8::internal::Handle<v8::internal::Object>, v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::BasicJsonStringifier::StackPush(v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::BasicJsonStringifier::Result v8::internal::BasicJsonStringifier::Serialize_<true>(v8::internal::Handle<v8::internal::Object>, bool, v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::BasicJsonStringifier::Result v8::internal::BasicJsonStringifier::Serialize_<false>(v8::internal::Handle<v8::internal::Object>, bool, v8::internal::Handle<v8::internal::Object>)
+      1    0.0%    0.0%  v8::internal::AstValueFactory::GetString(unsigned int, bool, v8::internal::Vector<unsigned char const>)
+      1    0.0%    0.0%  v8::internal::AstValueFactory::AstRawStringCompare(void*, void*)
+      1    0.0%    0.0%  v8::internal::AstTyper::VisitReturnStatement(v8::internal::ReturnStatement*)
+      1    0.0%    0.0%  v8::internal::AstTyper::VisitCall(v8::internal::Call*)
+      1    0.0%    0.0%  v8::internal::AstNumberingVisitor::VisitCompareOperation(v8::internal::CompareOperation*)
+      1    0.0%    0.0%  v8::internal::AstNumberingVisitor::VisitCallNew(v8::internal::CallNew*)
+      1    0.0%    0.0%  v8::internal::AssemblerPositionsRecorder::WriteRecordedPositions()
+      1    0.0%    0.0%  v8::internal::AssemblerPositionsRecorder::RecordPosition(int)
+      1    0.0%    0.0%  v8::internal::AssemblerBase::AssemblerBase(v8::internal::Isolate*, void*, int)
+      1    0.0%    0.0%  v8::internal::Assembler::popq(v8::internal::Register)
+      1    0.0%    0.0%  v8::internal::Assembler::movp(v8::internal::Register, void*, v8::internal::RelocInfo::Mode)
+      1    0.0%    0.0%  v8::internal::Assembler::j(v8::internal::Condition, v8::internal::Label*, v8::internal::Label::Distance)
+      1    0.0%    0.0%  v8::internal::Assembler::emit_mov(v8::internal::Operand const&, v8::internal::Register, int)
+      1    0.0%    0.0%  v8::internal::Assembler::dd(unsigned int)
+      1    0.0%    0.0%  v8::internal::Assembler::call(v8::internal::Handle<v8::internal::Code>, v8::internal::RelocInfo::Mode, v8::internal::TypeFeedbackId)
+      1    0.0%    0.0%  v8::internal::Assembler::bind_to(v8::internal::Label*, int)
+      1    0.0%    0.0%  v8::internal::Assembler::arithmetic_op(unsigned char, v8::internal::Register, v8::internal::Operand const&, int)
+      1    0.0%    0.0%  v8::internal::AllocationSiteUsageContext::ShouldCreateMemento(v8::internal::Handle<v8::internal::JSObject>)
+      1    0.0%    0.0%  v8::internal::AllocationResult::AllocationResult(v8::internal::Object*)
+      1    0.0%    0.0%  v8::internal::Accessors::ObservedReconfigureToDataProperty(v8::Local<v8::Name>, v8::Local<v8::Value>, v8::PropertyCallbackInfo<void> const&)
+      1    0.0%    0.0%  v8::internal::Accessors::IsJSObjectFieldAccessor(v8::internal::Handle<v8::internal::Map>, v8::internal::Handle<v8::internal::Name>, int*)
+      1    0.0%    0.0%  v8::internal::Accessors::FunctionPrototypeGetter(v8::Local<v8::Name>, v8::PropertyCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  v8::internal::Accessors::FunctionLengthGetter(v8::Local<v8::Name>, v8::PropertyCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  v8::internal::(anonymous namespace)::RecordFunctionCompilation(v8::internal::Logger::LogEventsAndTags, v8::internal::CompilationInfo*, v8::internal::Handle<v8::internal::SharedFunctionInfo>)
+      1    0.0%    0.0%  v8::internal::(anonymous namespace)::GetUnoptimizedCodeCommon(v8::internal::CompilationInfo*)
+      1    0.0%    0.0%  v8::internal::(anonymous namespace)::GetOptimizedCode(v8::internal::Handle<v8::internal::JSFunction>, v8::internal::Compiler::ConcurrencyMode, v8::internal::BailoutId, v8::internal::JavaScriptFrame*)
+      1    0.0%    0.0%  v8::internal::(anonymous namespace)::Fast_ArrayConcat(v8::internal::Isolate*, v8::internal::Arguments*)
+      1    0.0%    0.0%  v8::internal::(anonymous namespace)::Enumerate(v8::internal::Handle<v8::internal::JSReceiver>)
+      1    0.0%    0.0%  v8::internal::(anonymous namespace)::ElementsAccessorBase<v8::internal::(anonymous namespace)::FastHoleyObjectElementsAccessor, v8::internal::(anonymous namespace)::ElementsKindTraits<(v8::internal::ElementsKind)3> >::GrowCapacityAndConvertImpl(v8::internal::Handle<v8::internal::JSObject>, unsigned int)
+      1    0.0%    0.0%  v8::base::RandomNumberGenerator::Next(int)
+      1    0.0%    0.0%  v8::base::OS::VSNPrintF(char*, int, char const*, __va_list_tag*)
+      1    0.0%    0.0%  v8::Value::IsExternal() const
+      1    0.0%    0.0%  v8::Value::IsArrayBuffer() const
+      1    0.0%    0.0%  v8::String::Utf8Length() const
+      1    0.0%    0.0%  v8::Number::New(v8::Isolate*, double)
+      1    0.0%    0.0%  v8::HandleScope::HandleScope(v8::Isolate*)
+      1    0.0%    0.0%  v8::Function::Call(v8::Local<v8::Context>, v8::Local<v8::Value>, int, v8::Local<v8::Value>*)
+      1    0.0%    0.0%  v8::ArrayBufferView::ByteLength()
+      1    0.0%    0.0%  v8::ArrayBufferView::Buffer()
+      1    0.0%    0.0%  v8::ArrayBuffer::GetContents()
+      1    0.0%    0.0%  v8::Array::New(v8::Isolate*, int)
+      1    0.0%    0.0%  uv_err_name
+      1    0.0%    0.0%  unibrow::Ecma262UnCanonicalize::Convert(unsigned int, unsigned int, unsigned int*, bool*)
+      1    0.0%    0.0%  std::vector<v8::internal::ZoneVector<v8::internal::compiler::Node*>, v8::internal::zone_allocator<v8::internal::ZoneVector<v8::internal::compiler::Node*> > >::_M_fill_insert(__gnu_cxx::__normal_iterator<v8::internal::ZoneVector<v8::internal::compiler::Node*>*, std::vector<v8::internal::ZoneVector<v8::internal::compiler::Node*>, v8::internal::zone_allocator<v8::internal::ZoneVector<v8::internal::compiler::Node*> > > >, unsigned long, v8::internal::ZoneVector<v8::internal::compiler::Node*> const&)
+      1    0.0%    0.0%  std::string::reserve(unsigned long)
+      1    0.0%    0.0%  std::pair<std::_Rb_tree_iterator<v8::internal::compiler::InstructionOperand>, bool> std::_Rb_tree<v8::internal::compiler::InstructionOperand, v8::internal::compiler::InstructionOperand, std::_Identity<v8::internal::compiler::InstructionOperand>, v8::internal::compiler::(anonymous namespace)::OperandCompare, v8::internal::zone_allocator<v8::internal::compiler::InstructionOperand> >::_M_insert_unique<v8::internal::compiler::InstructionOperand const&>(v8::internal::compiler::InstructionOperand const&)
+      1    0.0%    0.0%  std::locale::operator=(std::locale const&)
+      1    0.0%    0.0%  std::basic_ostream<char, std::char_traits<char> >& std::__ostream_insert<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*, long)
+      1    0.0%    0.0%  std::_Rb_tree_decrement(std::_Rb_tree_node_base*)
+      1    0.0%    0.0%  sha256_block_data_order
+      1    0.0%    0.0%  sem_timedwait
+      1    0.0%    0.0%  obj_name_LHASH_COMP
+      1    0.0%    0.0%  non-virtual thunk to v8::internal::HOptimizedGraphBuilder::VisitIfStatement(v8::internal::IfStatement*)
+      1    0.0%    0.0%  node::util::IsSharedArrayBuffer(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::crypto::SSLWrap<node::TLSWrap>::GetPeerCertificate(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::crypto::Hmac::HmacInit(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::Utf8Value::Utf8Value(v8::Isolate*, v8::Local<v8::Value>)
+      1    0.0%    0.0%  node::UDPWrap::Send(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::TimerWrap::Now(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::TLSWrap::DestroySSL(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::TCPWrap::New(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::TCPWrap::Connect(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::StringBytes::StorageSize(v8::Isolate*, v8::Local<v8::Value>, node::encoding)
+      1    0.0%    0.0%  node::RunMicrotasks(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::Read(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::InternalModuleStat(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::HandleWrap::Close(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::EnvGetter(v8::Local<v8::Name>, v8::PropertyCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::Buffer::ByteLengthUtf8(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::Buffer::AsciiSlice(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  munmap
+      1    0.0%    0.0%  localtime
+      1    0.0%    0.0%  ioctl
+      1    0.0%    0.0%  init256
+      1    0.0%    0.0%  double v8::internal::InternalStringToDouble<unsigned char const*, unsigned char const*>(v8::internal::UnicodeCache*, unsigned char const*, unsigned char const*, int, double)
+      1    0.0%    0.0%  default_malloc_ex
+      1    0.0%    0.0%  bool v8::internal::ScavengingVisitor<(v8::internal::MarksHandling)0, (v8::internal::LoggingAndProfiling)0>::SemiSpaceCopyObject<(v8::internal::AllocationAlignment)0>(v8::internal::Map*, v8::internal::HeapObject**, v8::internal::HeapObject*, int)
+      1    0.0%    0.0%  _dl_mcount_wrapper_check
+      1    0.0%    0.0%  __errno_location
+      1    0.0%    0.0%  __cxxabiv1::__si_class_type_info::__do_dyncast(long, __cxxabiv1::__class_type_info::__sub_kind, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__dyncast_result&) const
+      1    0.0%    0.0%  _ZN2v88internalL24KeywordOrIdentifierTokenEPKhib.part.0
+      1    0.0%    0.0%  _ZN2v88internal6String9VisitFlatINS_16Utf8LengthHelper7VisitorEEEPNS0_10ConsStringEPT_PS1_i.constprop.475
+      1    0.0%    0.0%  _ZN2v88internal4Heap11AllocateRawEiNS0_15AllocationSpaceENS0_19AllocationAlignmentE.constprop.630
+      1    0.0%    0.0%  _ZN2v88internal19TemplateHashMapImplINS0_25FreeStoreAllocationPolicyEE14LookupOrInsertEPvjS2_.isra.93
+      1    0.0%    0.0%  _ZN2v88internal19TemplateHashMapImplINS0_25FreeStoreAllocationPolicyEE14LookupOrInsertEPvjS2_.isra.510
+      1    0.0%    0.0%  _ZN2v88internal19TemplateHashMapImplINS0_25FreeStoreAllocationPolicyEE14LookupOrInsertEPvjS2_.isra.33
+      1    0.0%    0.0%  _ZN2v88internal19OptimizedCompileJob11CreateGraphEv.part.408
+      1    0.0%    0.0%  _ZN2v88internal10JsonParserILb0EE23CommitStateToJsonObjectENS0_6HandleINS0_8JSObjectEEENS3_INS0_3MapEEEPNS0_8ZoneListINS3_INS0_6ObjectEEEEE.isra.453
+      1    0.0%    0.0%  _IO_fflush
+      1    0.0%    0.0%  SHA256_Update
+      1    0.0%    0.0%  OBJ_NAME_get
+      1    0.0%    0.0%  EVP_MD_block_size
+      1    0.0%    0.0%  EVP_MD_CTX_cleanup
+
+ [Summary]:
+   ticks  total  nonlib   name
+    311   10.1%   10.6%  JavaScript
+   2363   77.0%   80.5%  C++
+     95    3.1%    3.2%  GC
+    135    4.4%          Shared libraries
+    261    8.5%          Unaccounted
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+   1034   47.4%   33.7%  v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
+    172    7.9%    5.6%  v8::internal::Runtime_CompileLazy(int, v8::internal::Object**, v8::internal::Isolate*)
+    156    7.1%    5.1%  v8::internal::Runtime_CompileOptimized_Concurrent(int, v8::internal::Object**, v8::internal::Isolate*)
+    102    4.7%    3.3%  v8::internal::Runtime_KeyedStoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+     63    2.9%    2.1%  sha256_block_data_order_ssse3
+     52    2.4%    1.7%  v8::internal::Runtime_ParseJson(int, v8::internal::Object**, v8::internal::Isolate*)
+     49    2.2%    1.6%  v8::internal::Runtime_StoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+     38    1.7%    1.2%  v8::internal::Runtime_LoadIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+     34    1.6%    1.1%  v8::internal::Runtime_KeyedLoadIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+     33    1.5%    1.1%  v8::internal::Runtime_BasicJSONStringify(int, v8::internal::Object**, v8::internal::Isolate*)
+     30    1.4%    1.0%  v8::internal::Runtime_SetProperty(int, v8::internal::Object**, v8::internal::Isolate*)
+     28    1.3%    0.9%  v8::internal::Runtime_KeyedGetProperty(int, v8::internal::Object**, v8::internal::Isolate*)
+     27    1.2%    0.9%  v8::internal::Runtime_CreateObjectLiteral(int, v8::internal::Object**, v8::internal::Isolate*)
+     24    1.1%    0.8%  __xstat
+     18    0.8%    0.6%  v8::internal::Runtime_GenericHash(int, v8::internal::Object**, v8::internal::Isolate*)
+     16    0.7%    0.5%  v8::internal::Runtime_BinaryOpIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+     15    0.7%    0.5%  v8::internal::Runtime_TryInstallOptimizedCode(int, v8::internal::Object**, v8::internal::Isolate*)
+     13    0.6%    0.4%  v8::internal::Builtin_DateConstructor_ConstructStub(int, v8::internal::Object**, v8::internal::Isolate*)
+     12    0.5%    0.4%  v8::internal::Runtime_StringEqual(int, v8::internal::Object**, v8::internal::Isolate*)
+     11    0.5%    0.4%  v8::String::WriteUtf8(char*, int, int*, int) const
+     10    0.5%    0.3%  HMAC_Init_ex
+      9    0.4%    0.3%  v8::internal::Runtime_StringToNumber(int, v8::internal::Object**, v8::internal::Isolate*)
+      9    0.4%    0.3%  v8::internal::Runtime_RegExpExec(int, v8::internal::Object**, v8::internal::Isolate*)
+      9    0.4%    0.3%  v8::internal::Runtime_NewObject(int, v8::internal::Object**, v8::internal::Isolate*)
+      7    0.3%    0.2%  v8::internal::Runtime_NewClosure(int, v8::internal::Object**, v8::internal::Isolate*)
+      7    0.3%    0.2%  v8::internal::Runtime_AllocateInTargetSpace(int, v8::internal::Object**, v8::internal::Isolate*)
+      7    0.3%    0.2%  __libc_malloc
+      6    0.3%    0.2%  v8::internal::Runtime_CompileForOnStackReplacement(int, v8::internal::Object**, v8::internal::Isolate*)
+      6    0.3%    0.2%  EVP_MD_CTX_init
+      5    0.2%    0.2%  v8::internal::Runtime_ObjectDefineProperty(int, v8::internal::Object**, v8::internal::Isolate*)
+      5    0.2%    0.2%  v8::internal::Runtime_CompareIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      5    0.2%    0.2%  v8::internal::JSTypedArray::GetBuffer()
+      5    0.2%    0.2%  v8::internal::Builtin_ObjectKeys(int, v8::internal::Object**, v8::internal::Isolate*)
+      5    0.2%    0.2%  v8::Value::IsUint8Array() const
+      5    0.2%    0.2%  lh_strhash
+      4    0.2%    0.1%  v8::internal::Runtime_StringReplaceGlobalRegExpWithString(int, v8::internal::Object**, v8::internal::Isolate*)
+      4    0.2%    0.1%  v8::internal::Runtime_NumberToRadixString(int, v8::internal::Object**, v8::internal::Isolate*)
+      4    0.2%    0.1%  v8::internal::Runtime_ClassOf(int, v8::internal::Object**, v8::internal::Isolate*)
+      4    0.2%    0.1%  v8::Isolate::GetCurrentContext()
+      4    0.2%    0.1%  __fxstat
+      3    0.1%    0.1%  void node::Buffer::StringWrite<(node::encoding)1>(v8::FunctionCallbackInfo<v8::Value> const&)
+      3    0.1%    0.1%  v8::internal::Runtime_SubString(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::Runtime_StringIndexOf(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::Runtime_StringCharCodeAtRT(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::Runtime_NewClosure_Tenured(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::Runtime_Interrupt(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::Runtime_ForInEnumerate(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::Runtime_CompileOptimized_NotConcurrent(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::JSTypedArray::type()
+      3    0.1%    0.1%  v8::internal::Builtin_ArrayConcat(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::internal::Builtin_ArrayBufferConstructor_ConstructStub(int, v8::internal::Object**, v8::internal::Isolate*)
+      3    0.1%    0.1%  v8::Value::ToString(v8::Local<v8::Context>) const
+      3    0.1%    0.1%  v8::HandleScope::~HandleScope()
+      3    0.1%    0.1%  _init
+      3    0.1%    0.1%  __pthread_getspecific
+      3    0.1%    0.1%  EVP_DigestInit_ex
+      2    0.1%    0.1%  v8::internal::Runtime_TypedArrayGetBuffer(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Runtime_ToBooleanIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Runtime_ShiftRightLogical(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Runtime_NotifyStubFailure(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Runtime_DefineDataPropertyInLiteral(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Builtin_ObjectProtoToString(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::internal::Builtin_FunctionConstructor(int, v8::internal::Object**, v8::internal::Isolate*)
+      2    0.1%    0.1%  v8::RecursivelySerializeToUtf8(v8::internal::String*, v8::Utf8WriterVisitor*, int)
+      2    0.1%    0.1%  node::crypto::Hmac::HmacInit(char const*, char const*, int)
+      2    0.1%    0.1%  lh_retrieve
+      2    0.1%    0.1%  _IO_file_sync
+      2    0.1%    0.1%  SHA256_Init
+      2    0.1%    0.1%  HMAC_CTX_init
+      2    0.1%    0.1%  EVP_MD_CTX_copy_ex
+      2    0.1%    0.1%  ENGINE_get_digest_engine
+      2    0.1%    0.1%  CRYPTO_malloc
+      1    0.0%    0.0%  void v8::internal::String::WriteToFlat<unsigned char>(v8::internal::String*, unsigned char*, int, int)
+      1    0.0%    0.0%  void v8::Utf8WriterVisitor::Visit<unsigned char>(unsigned char const*, int)
+      1    0.0%    0.0%  v8::internal::TemplateHashMapImpl<v8::internal::ZoneAllocationPolicy>::LookupOrInsert(void*, unsigned int, v8::internal::ZoneAllocationPolicy)
+      1    0.0%    0.0%  v8::internal::String::IsOneByteEqualTo(v8::internal::Vector<unsigned char const>)
+      1    0.0%    0.0%  v8::internal::Scanner::ScanIdentifierOrKeyword()
+      1    0.0%    0.0%  v8::internal::Runtime_StringToLowerCase(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_StringBuilderJoin(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_StackGuard(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_ResolvePossiblyDirectEval(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_ObjectHasOwnProperty(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_NumberToStringSkipCache(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_MapGrow(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_LoadPropertyWithInterceptor(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_HasProperty(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_HasFastPackedElements(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_CreateRegExpLiteral(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_CreateArrayLiteralStubBailout(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Runtime_CreateArrayLiteral(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::ParserBase<v8::internal::ParserTraits>::ParseAssignmentExpression(bool, v8::internal::ExpressionClassifier<v8::internal::ParserTraits>*, bool*)
+      1    0.0%    0.0%  v8::internal::FullCodeGenerator::Generate()
+      1    0.0%    0.0%  v8::internal::Builtin_ObjectAssign(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_Impl_ObjectKeys(v8::internal::(anonymous namespace)::BuiltinArguments<(v8::internal::BuiltinExtraArguments)0>, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_FunctionPrototypeToString(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_DatePrototypeToString(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_DateNow(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_ArraySlice(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_ArrayPop(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::internal::Builtin_ArrayIsArray(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    0.0%    0.0%  v8::Value::IsExternal() const
+      1    0.0%    0.0%  v8::Value::IsArrayBuffer() const
+      1    0.0%    0.0%  v8::String::Utf8Length() const
+      1    0.0%    0.0%  v8::HandleScope::HandleScope(v8::Isolate*)
+      1    0.0%    0.0%  v8::ArrayBufferView::ByteLength()
+      1    0.0%    0.0%  v8::ArrayBufferView::Buffer()
+      1    0.0%    0.0%  v8::ArrayBuffer::GetContents()
+      1    0.0%    0.0%  sha256_block_data_order
+      1    0.0%    0.0%  obj_name_LHASH_COMP
+      1    0.0%    0.0%  node::util::IsSharedArrayBuffer(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::crypto::Hmac::HmacInit(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::Utf8Value::Utf8Value(v8::Isolate*, v8::Local<v8::Value>)
+      1    0.0%    0.0%  node::TLSWrap::Start(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::StringBytes::StorageSize(v8::Isolate*, v8::Local<v8::Value>, node::encoding)
+      1    0.0%    0.0%  node::Open(v8::FunctionCallbackInfo<v8::Value> const&)
+      1    0.0%    0.0%  node::EnvEnumerator(v8::PropertyCallbackInfo<v8::Array> const&)
+      1    0.0%    0.0%  ioctl
+      1    0.0%    0.0%  init256
+      1    0.0%    0.0%  default_malloc_ex
+      1    0.0%    0.0%  __write
+      1    0.0%    0.0%  __libc_free
+      1    0.0%    0.0%  __errno_location
+      1    0.0%    0.0%  _ZN2v88internal6String9VisitFlatINS_16Utf8LengthHelper7VisitorEEEPNS0_10ConsStringEPT_PS1_i.constprop.475
+      1    0.0%    0.0%  _IO_vfprintf
+      1    0.0%    0.0%  SHA256_Update
+      1    0.0%    0.0%  OBJ_NAME_get
+      1    0.0%    0.0%  EVP_MD_block_size
+      1    0.0%    0.0%  EVP_MD_CTX_cleanup
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 2.0% are not shown.
+
+   ticks parent  name
+    601   19.6%  node::ContextifyScript::New(v8::FunctionCallbackInfo<v8::Value> const&)
+    601  100.0%    v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
+    432   71.9%      LazyCompile: *runInThisContext vm.js:96:26
+    432  100.0%        LazyCompile: ~Module._compile module.js:510:37
+    300   69.4%          LazyCompile: *Module._extensions..js module.js:577:37
+    300  100.0%            LazyCompile: *Module.load module.js:478:33
+    132   30.6%          LazyCompile: ~Module._extensions..js module.js:577:37
+    101   76.5%            LazyCompile: ~Module.load module.js:478:33
+     31   23.5%            LazyCompile: *Module.load module.js:478:33
+    120   20.0%      LazyCompile: ~createScript vm.js:55:22
+    120  100.0%        LazyCompile: ~runInThisContext vm.js:96:26
+    120  100.0%          LazyCompile: ~Module._compile module.js:510:37
+    120  100.0%            LazyCompile: ~Module._extensions..js module.js:577:37
+     49    8.2%      LazyCompile: ~runInThisContext bootstrap_node.js:398:28
+     49  100.0%        LazyCompile: NativeModule.compile bootstrap_node.js:478:44
+     42   85.7%          LazyCompile: ~NativeModule.require bootstrap_node.js:414:34
+      6   14.3%            LazyCompile: ~startup bootstrap_node.js:12:19
+      5   11.9%            Function: ~<anonymous> module.js:1:11
+      4    9.5%            Function: ~<anonymous> http.js:1:11
+      3    7.1%            LazyCompile: ~setupGlobalVariables bootstrap_node.js:202:32
+      3    7.1%            LazyCompile: ~Module._load module.js:412:24
+      3    7.1%            Function: ~<anonymous> util.js:1:11
+      3    7.1%            Function: ~<anonymous> tty.js:1:11
+      3    7.1%            Function: ~<anonymous> tls.js:1:11
+      3    7.1%            Function: ~<anonymous> stream.js:1:11
+      2    4.8%            Function: ~<anonymous> cluster.js:1:11
+      2    4.8%            Function: ~<anonymous> child_process.js:1:11
+      1    2.4%            LazyCompile: ~setupGlobalTimeouts bootstrap_node.js:230:31
+      1    2.4%            Function: ~<anonymous> url.js:1:11
+      1    2.4%            Function: ~<anonymous> crypto.js:1:11
+      1    2.4%            Function: ~<anonymous> buffer.js:1:11
+      1    2.4%            Function: ~<anonymous> _tls_wrap.js:1:11
+      7   14.3%          LazyCompile: *Module._load module.js:412:24
+      7  100.0%            LazyCompile: *Module.require module.js:494:36
+
+    261    8.5%  UNKNOWN
+
+    176    5.7%  node::crypto::Hmac::HmacDigest(v8::FunctionCallbackInfo<v8::Value> const&)
+    176  100.0%    v8::internal::Builtin_HandleApiCall(int, v8::internal::Object**, v8::internal::Isolate*)
+    159   90.3%      LazyCompile: *<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+    159  100.0%        LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+    159  100.0%          LazyCompile: ~next /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:114:16
+    159  100.0%            LazyCompile: ~dispatch /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:98:45
+     17    9.7%      LazyCompile: *Hash.digest crypto.js:79:33
+     17  100.0%        LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+     17  100.0%          LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+     17  100.0%            LazyCompile: ~next /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:114:16
+
+    159    5.2%  syscall
+
+    102    3.3%  /lib/x86_64-linux-gnu/libc-2.15.so
+     12   11.8%    v8::internal::Runtime_CompileLazy(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    8.3%      node::EnvEnumerator(v8::PropertyCallbackInfo<v8::Array> const&)
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/debug/src/node.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: ~Module._extensions..js module.js:577:37
+      1    8.3%      LazyCompile: ~baseKeys /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:3493:22
+      1  100.0%        LazyCompile: ~keys /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:13284:18
+      1  100.0%          LazyCompile: ~mixin /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:15665:19
+      1  100.0%            Function: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:1427:44
+      1    8.3%      LazyCompile: ~Writable.write _stream_writable.js:221:36
+      1  100.0%        LazyCompile: ~Socket.write net.js:652:34
+      1  100.0%          LazyCompile: ~Console.warn console.js:50:34
+      1  100.0%            LazyCompile: ~getMongoConnectionUrl /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/lib/db.js:59:31
+      1    8.3%      LazyCompile: ~Reporting.logMessage /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-reportingclient/lib/fh-reporting.js:144:42
+      1  100.0%        LazyCompile: <anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/lib/cloud/fh-reports.js:17:29
+      1  100.0%          LazyCompile: ~_combinedTickCallback internal/process/next_tick.js:71:33
+      1  100.0%            LazyCompile: ~_tickCallback internal/process/next_tick.js:93:25
+      1    8.3%      LazyCompile: ~Long.negate /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/long.js:330:33
+      1  100.0%        LazyCompile: ~Long.fromNumber /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/long.js:701:27
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/parser/deserializer.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1    8.3%      LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%        LazyCompile: ~forEach native array.js:954:22
+      1  100.0%          Function: ~<anonymous> _tls_wrap.js:1:11
+      1  100.0%            LazyCompile: NativeModule.compile bootstrap_node.js:478:44
+      1    8.3%      LazyCompile: ~<anonymous> internal/process.js:209:37
+      1  100.0%        LazyCompile: ~emitTwo events.js:104:17
+      1  100.0%          LazyCompile: ~emit events.js:136:44
+      1  100.0%            LazyCompile: ~_addListener events.js:210:22
+      1    8.3%      LazyCompile: *InnerArrayForEach native array.js:935:27
+      1  100.0%        LazyCompile: *forEach native array.js:954:22
+      1  100.0%          LazyCompile: ~merge /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/merge-descriptors/index.js:34:15
+      1  100.0%            LazyCompile: ~createApplication /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/express.js:36:27
+      1    8.3%      Function: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:1427:44
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:9:11
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1    8.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:10:11
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: ~Module._extensions..js module.js:577:37
+      1    8.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/node_modules/lodash/dist/lodash.js:10:11
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/node_modules/lodash/dist/lodash.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: *Module._extensions..js module.js:577:37
+      1    8.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/express/lib/router/index.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%          LazyCompile: *Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: *Module.load module.js:478:33
+     11   10.8%    LazyCompile: *Hmac crypto.js:88:14
+     10   90.9%      LazyCompile: *<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+     10  100.0%        LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+     10  100.0%          LazyCompile: ~next /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:114:16
+     10  100.0%            LazyCompile: ~dispatch /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:98:45
+      1    9.1%      LazyCompile: *Hmac crypto.js:88:14
+      1  100.0%        LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      1  100.0%          LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+      1  100.0%            LazyCompile: ~next /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:114:16
+      7    6.9%    v8::internal::Runtime_KeyedGetProperty(int, v8::internal::Object**, v8::internal::Isolate*)
+      4   57.1%      LazyCompile: ~Module._findPath module.js:151:28
+      2   50.0%        LazyCompile: *Module._resolveFilename module.js:455:35
+      2  100.0%          LazyCompile: ~Module._load module.js:412:24
+      2  100.0%            LazyCompile: *Module.require module.js:494:36
+      1   25.0%        LazyCompile: ~Module._resolveFilename module.js:455:35
+      1  100.0%          LazyCompile: ~Module._load module.js:412:24
+      1  100.0%            LazyCompile: *Module.require module.js:494:36
+      1   25.0%        LazyCompile: *Module._load module.js:412:24
+      1  100.0%          LazyCompile: *Module.require module.js:494:36
+      1  100.0%            LazyCompile: require internal/module.js:17:19
+      1   14.3%      LazyCompile: ~Module._load module.js:412:24
+      1  100.0%        LazyCompile: *Module.require module.js:494:36
+      1  100.0%          LazyCompile: require internal/module.js:17:19
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/express/lib/application.js:1:11
+      1   14.3%      LazyCompile: *realpathSync fs.js:1606:40
+      1  100.0%        LazyCompile: *toRealPath module.js:132:20
+      1  100.0%          LazyCompile: *tryPackage module.js:101:20
+      1  100.0%            LazyCompile: ~Module._findPath module.js:151:28
+      1   14.3%      LazyCompile: *Module._load module.js:412:24
+      1  100.0%        LazyCompile: *Module.require module.js:494:36
+      1  100.0%          LazyCompile: require internal/module.js:17:19
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/response.js:1:11
+      4    3.9%    v8::internal::Runtime_StringEqual(int, v8::internal::Object**, v8::internal::Isolate*)
+      2   50.0%      LazyCompile: *set native collection.js:252:16
+      2  100.0%        LazyCompile: *realpathSync fs.js:1606:40
+      2  100.0%          LazyCompile: *toRealPath module.js:132:20
+      2  100.0%            LazyCompile: *tryPackage module.js:101:20
+      2   50.0%      LazyCompile: *get native collection.js:239:16
+      2  100.0%        LazyCompile: *realpathSync fs.js:1606:40
+      2  100.0%          LazyCompile: *toRealPath module.js:132:20
+      1   50.0%            LazyCompile: ~Module._findPath module.js:151:28
+      1   50.0%            LazyCompile: *tryFile module.js:124:17
+      4    3.9%    v8::internal::Runtime_GenericHash(int, v8::internal::Object**, v8::internal::Isolate*)
+      4  100.0%      LazyCompile: *get native collection.js:239:16
+      4  100.0%        LazyCompile: *realpathSync fs.js:1606:40
+      4  100.0%          LazyCompile: *toRealPath module.js:132:20
+      4  100.0%            LazyCompile: *tryFile module.js:124:17
+      3    2.9%    v8::internal::Runtime_NewObject(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   33.3%      LazyCompile: ~statsFromValues fs.js:979:25
+      1  100.0%        LazyCompile: ~fs.lstatSync fs.js:993:24
+      1  100.0%          LazyCompile: ~realpathSync fs.js:1606:40
+      1  100.0%            LazyCompile: ~toRealPath module.js:132:20
+      1   33.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/mongodb/lib/cursor.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%          LazyCompile: ~Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: ~Module.load module.js:478:33
+      1   33.3%      Function: <anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:946:14
+      1  100.0%        LazyCompile: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:692:24
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:10:11
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:1:11
+      3    2.9%    v8::internal::Runtime_KeyedStoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   33.3%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/redis/node_modules/redis-commands/index.js:16:31
+      1  100.0%        LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%          LazyCompile: ~forEach native array.js:954:22
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/redis/node_modules/redis-commands/index.js:1:11
+      1   33.3%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/redis/node_modules/redis-commands/index.js:16:31
+      1  100.0%        LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%          LazyCompile: ~forEach native array.js:954:22
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/redis/node_modules/redis-commands/index.js:1:11
+      1   33.3%      LazyCompile: readPackage module.js:79:21
+      1  100.0%        LazyCompile: ~tryPackage module.js:101:20
+      1  100.0%          LazyCompile: ~Module._findPath module.js:151:28
+      1  100.0%            LazyCompile: *Module._load module.js:412:24
+      3    2.9%    v8::internal::Runtime_CompileOptimized_Concurrent(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   33.3%      LazyCompile: ~QuickSort native array.js:734:26
+      1  100.0%        LazyCompile: ~QuickSort native array.js:734:26
+      1  100.0%          LazyCompile: ~InnerArraySort native array.js:690:24
+      1  100.0%            LazyCompile: *sort native array.js:907:19
+      1   33.3%      LazyCompile: ~Buffer.write buffer.js:714:34
+      1  100.0%        LazyCompile: ~fromString buffer.js:186:20
+      1  100.0%          LazyCompile: ~Buffer.from buffer.js:91:23
+      1  100.0%            LazyCompile: ~toBuf crypto.js:37:15
+      1   33.3%      LazyCompile: *toRealPath module.js:132:20
+      1  100.0%        LazyCompile: ~tryFile module.js:124:17
+      1  100.0%          LazyCompile: ~tryExtensions module.js:139:23
+      1  100.0%            LazyCompile: ~Module._findPath module.js:151:28
+
+     79    2.6%  __lll_unlock_wake
+     75   94.9%    v8::internal::Runtime_CompileOptimized_Concurrent(int, v8::internal::Object**, v8::internal::Isolate*)
+      4    5.3%      LazyCompile: *Module.require module.js:494:36
+      4  100.0%        LazyCompile: require internal/module.js:17:19
+      1   25.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/request/node_modules/oauth-sign/index.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1   25.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/mongodb/lib/apm.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1   25.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/identity.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1   25.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/lib/gridfs/chunk.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      3    4.0%      LazyCompile: *Module.load module.js:478:33
+      3  100.0%        LazyCompile: tryModuleLoad module.js:443:23
+      1   33.3%          LazyCompile: ~Module._load module.js:412:24
+      1  100.0%            LazyCompile: *Module.require module.js:494:36
+      1   33.3%          LazyCompile: *Module._load module.js:412:24
+      1  100.0%            LazyCompile: *Module.require module.js:494:36
+      1   33.3%          Handler: update
+      1  100.0%            LazyCompile: *Module.require module.js:494:36
+      2    2.7%      LazyCompile: ~realpathSync fs.js:1606:40
+      2  100.0%        LazyCompile: ~toRealPath module.js:132:20
+      2  100.0%          LazyCompile: ~tryFile module.js:124:17
+      1   50.0%            LazyCompile: ~tryPackage module.js:101:20
+      1   50.0%            LazyCompile: ~tryExtensions module.js:139:23
+      2    2.7%      LazyCompile: ~[Symbol.replace] native regexp.js:659:31
+      2  100.0%        LazyCompile: ~replace native string.js:132:23
+      1   50.0%          LazyCompile: ~addCommand /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/redis/lib/commands.js:20:27
+      1  100.0%            LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1   50.0%          LazyCompile: *<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/type-is/node_modules/mime/mime.js:57:25
+      1  100.0%            LazyCompile: ~InnerArrayForEach native array.js:935:27
+      2    2.7%      LazyCompile: ~Uint8Array native typedarray.js:241:31
+      2  100.0%        LazyCompile: *FastBuffer buffer.js:10:14
+      1   50.0%          LazyCompile: createUnsafeBuffer buffer.js:35:28
+      1  100.0%            LazyCompile: *Buffer.allocUnsafe buffer.js:139:30
+      1   50.0%          LazyCompile: *Buffer.allocUnsafe buffer.js:139:30
+      1  100.0%            LazyCompile: tryCreateBuffer fs.js:472:25
+      2    2.7%      LazyCompile: ~Socket.setTimeout net.js:319:39
+      2  100.0%        LazyCompile: ~connectionListener _http_server.js:262:28
+      2  100.0%          LazyCompile: ~emitOne events.js:94:17
+      2  100.0%            LazyCompile: ~emit events.js:136:44
+      2    2.7%      LazyCompile: ~Socket.send dgram.js:309:33
+      2  100.0%        LazyCompile: send /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/lib/stats.js:24:16
+      2  100.0%          LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/lib/stats.js:41:36
+      2  100.0%            LazyCompile: ~process /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/node_modules/async/lib/async.js:710:31
+      2    2.7%      LazyCompile: ~Module._resolveLookupPaths module.js:314:38
+      1   50.0%        LazyCompile: ~Module._resolveFilename module.js:455:35
+      1  100.0%          LazyCompile: ~Module._load module.js:412:24
+      1  100.0%            LazyCompile: *Module.require module.js:494:36
+      1   50.0%        LazyCompile: *Module._load module.js:412:24
+      1  100.0%          LazyCompile: *Module.require module.js:494:36
+      1  100.0%            LazyCompile: require internal/module.js:17:19
+      2    2.7%      LazyCompile: ~Module._compile module.js:510:37
+      1   50.0%        LazyCompile: ~Module._extensions..js module.js:577:37
+      1  100.0%          LazyCompile: ~Module.load module.js:478:33
+      1  100.0%            LazyCompile: tryModuleLoad module.js:443:23
+      1   50.0%        LazyCompile: *Module._extensions..js module.js:577:37
+      1  100.0%          LazyCompile: *Module.load module.js:478:33
+      1  100.0%            LazyCompile: tryModuleLoad module.js:443:23
+      2    2.7%      LazyCompile: tryCreateBuffer fs.js:472:25
+      2  100.0%        LazyCompile: ~fs.readFileSync fs.js:496:27
+      1   50.0%          LazyCompile: ~Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: ~Module.load module.js:478:33
+      1   50.0%          LazyCompile: *Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: *Module.load module.js:478:33
+      2    2.7%      LazyCompile: *fromString buffer.js:186:20
+      2  100.0%        LazyCompile: *Hmac crypto.js:88:14
+      1   50.0%          LazyCompile: *Hmac crypto.js:88:14
+      1  100.0%            LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      1   50.0%          LazyCompile: *<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      1  100.0%            LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+
+     72    2.3%  __write
+     20   27.8%    v8::internal::Runtime_KeyedStoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      2   10.0%      LazyCompile: ~mixin /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:11264:19
+      1   50.0%        LazyCompile: ~module.exports /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/common-js/_.util.existential.js:1:88
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/lodash-contrib.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1   50.0%        LazyCompile: ~module.exports /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/common-js/_.array.selectors.js:1:88
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/lodash-contrib.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      2   10.0%      LazyCompile: ~OutgoingMessage._renderHeaders _http_outgoing.js:408:52
+      1   50.0%        LazyCompile: ~ServerResponse.writeHead _http_server.js:160:46
+      1  100.0%          LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/lib/sys.js:16:34
+      1  100.0%            LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/express/lib/router/layer.js:86:49
+      1   50.0%        LazyCompile: ~ClientRequest._implicitHeader _http_client.js:217:51
+      1  100.0%          LazyCompile: ~OutgoingMessage.write _http_outgoing.js:438:43
+      1  100.0%            LazyCompile: ~Request.write /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/request.js:1506:36
+      2   10.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:11950:34
+      2  100.0%        LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:3098:22
+      2  100.0%          LazyCompile: ~baseForOwn /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:2052:24
+      2  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:11948:28
+      1    5.0%      LazyCompile: ~parseFields /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:265:22
+      1  100.0%        LazyCompile: ~AMQPParser._parseMethodFrame /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:341:51
+      1  100.0%          LazyCompile: ~frameEnd /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:88:20
+      1  100.0%            LazyCompile: ~frame /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:71:17
+      1    5.0%      LazyCompile: ~exports._extend util.js:970:27
+      1  100.0%        LazyCompile: ~exports.connect _tls_wrap.js:1000:27
+      1  100.0%          LazyCompile: ~createConnection https.js:53:26
+      1  100.0%            LazyCompile: ~Agent.createSocket _http_agent.js:176:40
+      1    5.0%      LazyCompile: ~arrayToHash util.js:254:21
+      1  100.0%        LazyCompile: formatValue util.js:300:21
+      1  100.0%          LazyCompile: ~inspect util.js:168:17
+      1  100.0%            LazyCompile: ~addStream /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/node_modules/fh-logger/node_modules/bunyan/lib/bunyan.js:550:48
+      1    5.0%      LazyCompile: ~_addListener events.js:210:22
+      1  100.0%        LazyCompile: *addListener events.js:275:58
+      1  100.0%          LazyCompile: ~Readable.on _stream_readable.js:686:33
+      1  100.0%            LazyCompile: ~Socket net.js:125:16
+      1    5.0%      LazyCompile: ~_.pick /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/node_modules/underscore/underscore.js:1023:20
+      1  100.0%        LazyCompile: ~_.omit /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/node_modules/underscore/underscore.js:1043:20
+      1  100.0%          LazyCompile: ~doFHMbaaSRequest /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/lib/mbaasRequest/mbaasRequest.js:217:26
+      1  100.0%            LazyCompile: ~appRequest /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/lib/mbaasRequest/mbaasRequest.js:357:20
+      1    5.0%      LazyCompile: ~Mime.define /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/send/node_modules/mime/mime.js:21:34
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/send/node_modules/mime/mime.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: *Module._extensions..js module.js:577:37
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/object-assign/index.js:50:53
+      1  100.0%        LazyCompile: *InnerArrayForEach native array.js:935:27
+      1  100.0%          LazyCompile: *forEach native array.js:954:22
+      1  100.0%            LazyCompile: shouldUseNative /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/object-assign/index.js:21:25
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/request/node_modules/har-validator/lib/index.js:20:35
+      1  100.0%        LazyCompile: ~map native array.js:994:18
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/request/node_modules/har-validator/lib/index.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/redis/node_modules/redis-commands/index.js:16:31
+      1  100.0%        LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%          LazyCompile: ~forEach native array.js:954:22
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/redis/node_modules/redis-commands/index.js:1:11
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/lib/helpers.js:44:37
+      1  100.0%        LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%          LazyCompile: *forEach native array.js:954:22
+      1  100.0%            LazyCompile: ~copy /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/lib/helpers.js:42:15
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/lib/proxy.js:11:26
+      1  100.0%        LazyCompile: ~_.each._.forEach /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/node_modules/underscore/underscore.js:148:32
+      1  100.0%          LazyCompile: ~proxy /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/lib/proxy.js:10:32
+      1  100.0%            LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/lib/proxy.js:11:26
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/lodash/dist/lodash.js:6669:30
+      1  100.0%        LazyCompile: ~forOwn /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/lodash/dist/lodash.js:2094:26
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/lodash/dist/lodash.js:6667:19
+      1  100.0%            LazyCompile: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/lodash/dist/lodash.js:432:24
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/node_modules/fh-logger/node_modules/bunyan/lib/bunyan.js:125:43
+      1  100.0%        LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%          LazyCompile: ~forEach native array.js:954:22
+      1  100.0%            LazyCompile: ~objCopy /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/node_modules/fh-logger/node_modules/bunyan/lib/bunyan.js:118:17
+      1    5.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/index.js:19:32
+      1  100.0%        LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%          LazyCompile: ~forEach native array.js:954:22
+      1  100.0%            Function: <anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/index.js:1:11
+     11   15.3%    v8::internal::Runtime_CompileLazy(int, v8::internal::Object**, v8::internal::Isolate*)
+      1    9.1%      LazyCompile: ~push /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/node_modules/async/lib/async.js:704:28
+      1  100.0%        LazyCompile: ~doStat /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/lib/stats.js:55:18
+      1  100.0%          LazyCompile: ~timing /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/lib/stats.js:71:18
+      1  100.0%            LazyCompile: ~timing /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/lib/stats.js:54:18
+      1    9.1%      LazyCompile: ~enable /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/express/node_modules/finalhandler/node_modules/debug/src/debug.js:138:16
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/express/node_modules/finalhandler/node_modules/debug/src/node.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: *Module._extensions..js module.js:577:37
+      1    9.1%      LazyCompile: ~emitOne events.js:94:17
+      1  100.0%        LazyCompile: ~emit events.js:136:44
+      1  100.0%          LazyCompile: ~emitOne events.js:94:17
+      1  100.0%            LazyCompile: ~emit events.js:136:44
+      1    9.1%      LazyCompile: ~MakeGenericError native messages.js:131:26
+      1  100.0%        Stub: CEntryStub
+      1  100.0%          Function: <anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/mongodb/node_modules/mongodb-core/lib/auth/gssapi.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1    9.1%      LazyCompile: ~InnerArrayForEach native array.js:935:27
+      1  100.0%        LazyCompile: ~forEach native array.js:954:22
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/request/node_modules/http-signature/node_modules/sshpk/lib/identity.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1    9.1%      LazyCompile: ~AMQPParser._parseMethodFrame /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:341:51
+      1  100.0%        LazyCompile: ~frameEnd /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:88:20
+      1  100.0%          LazyCompile: ~frame /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:71:17
+      1  100.0%            LazyCompile: ~header /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-amqp-js/node_modules/amqp/lib/parser.js:48:18
+      1    9.1%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-reportingclient/lib/fh-reporting.js:151:13
+      1  100.0%        LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-reportingclient/node_modules/async/lib/async.js:717:32
+      1  100.0%          LazyCompile: ~async.forEachOf.async.eachOf /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-reportingclient/node_modules/async/lib/async.js:224:29
+      1  100.0%            LazyCompile: ~_parallel /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-reportingclient/node_modules/async/lib/async.js:713:23
+      1    9.1%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/lib/fh-middleware.js:57:32
+      1  100.0%        LazyCompile: ~emitNone events.js:84:18
+      1  100.0%          LazyCompile: ~emit events.js:136:44
+      1  100.0%            LazyCompile: ~finish _http_outgoing.js:594:18
+      1    9.1%      LazyCompile: require internal/module.js:17:19
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/server.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: ~Module._extensions..js module.js:577:37
+      1    9.1%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/redis/node_modules/redis-parser/lib/parser.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%          LazyCompile: ~Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: ~Module.load module.js:478:33
+      1    9.1%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/long.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%          LazyCompile: *Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: *Module.load module.js:478:33
+      9   12.5%    v8::internal::Runtime_LoadIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   11.1%      LazyCompile: ~once events.js:299:44
+      1  100.0%        LazyCompile: ~ClientRequest._deferToConnect _http_client.js:594:51
+      1  100.0%          LazyCompile: ~ClientRequest _http_client.js:18:23
+      1  100.0%            LazyCompile: ~exports.request http.js:30:27
+      1   11.1%      LazyCompile: ~json /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/response.js:229:25
+      1  100.0%        LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      1  100.0%          LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+      1  100.0%            LazyCompile: ~next /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:114:16
+      1   11.1%      LazyCompile: ~g events.js:288:13
+      1  100.0%        LazyCompile: ~emitOne events.js:94:17
+      1  100.0%          LazyCompile: ~emit events.js:136:44
+      1  100.0%            LazyCompile: ~tickOnSocket _http_client.js:534:22
+      1   11.1%      LazyCompile: ~createFHActReport /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/lib/cloud/fh-reports.js:112:28
+      1  100.0%        LazyCompile: <anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/lib/cloud/fh-reports.js:17:29
+      1  100.0%          LazyCompile: ~_combinedTickCallback internal/process/next_tick.js:71:33
+      1  100.0%            LazyCompile: ~_tickCallback internal/process/next_tick.js:93:25
+      1   11.1%      LazyCompile: ~Promise /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/bluebird/js/release/promise.js:70:17
+      1  100.0%        LazyCompile: ~fillTypes /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/bluebird/js/release/promise.js:755:23
+      1  100.0%          LazyCompile: ~module.exports /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/bluebird/js/release/promise.js:2:26
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/bluebird/js/release/bluebird.js:1:11
+      1   11.1%      LazyCompile: ~ClientRequest _http_client.js:18:23
+      1  100.0%        LazyCompile: ~exports.request http.js:30:27
+      1  100.0%          LazyCompile: ~exports.request https.js:192:27
+      1  100.0%            LazyCompile: Request.start /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/request.js:712:36
+      1   11.1%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/debug/src/node.js:34:64
+      1  100.0%        LazyCompile: ~InnerArrayFilter native array.js:913:26
+      1  100.0%          LazyCompile: ~filter native array.js:927:21
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/debug/src/node.js:1:11
+      1   11.1%      LazyCompile: formatValue util.js:300:21
+      1  100.0%        LazyCompile: ~formatProperty util.js:766:24
+      1  100.0%          LazyCompile: ~<anonymous> util.js:651:27
+      1  100.0%            LazyCompile: ~map native array.js:994:18
+      1   11.1%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/lib/helpers.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%          LazyCompile: *Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: *Module.load module.js:478:33
+      8   11.1%    v8::internal::Runtime_StoreIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   12.5%      LazyCompile: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/node_modules/lodash/index.js:692:24
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/lodash-contrib/lodash-contrib.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: ~Module._extensions..js module.js:577:37
+      1   12.5%      LazyCompile: ~nextTick internal/process/next_tick.js:140:20
+      1  100.0%        LazyCompile: ~fallback /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/node_modules/fh-logger/node_modules/continuation-local-storage/node_modules/async-listener/index.js:497:27
+      1  100.0%          LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/node_modules/fh-logger/node_modules/continuation-local-storage/node_modules/async-listener/index.js:506:23
+      1  100.0%            LazyCompile: ~onwrite _stream_writable.js:353:17
+      1   12.5%      LazyCompile: ~lookup dns.js:105:33
+      1  100.0%        LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-client/node_modules/fh-logger/node_modules/continuation-local-storage/node_modules/async-listener/index.js:467:23
+      1  100.0%          LazyCompile: ~lookupAndConnect net.js:941:26
+      1  100.0%            LazyCompile: ~Socket.connect net.js:886:36
+      1   12.5%      LazyCompile: ~Tunnel /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/lib/tunnel.js:106:17
+      1  100.0%        LazyCompile: ~Request /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/request.js:96:18
+      1  100.0%          LazyCompile: ~request /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/index.js:43:18
+      1  100.0%            LazyCompile: ~doFHMbaaSRequest /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/lib/mbaasRequest/mbaasRequest.js:217:26
+      1   12.5%      LazyCompile: ~Stats fs.js:150:15
+      1  100.0%        LazyCompile: ~statsFromValues fs.js:979:25
+      1  100.0%          LazyCompile: ~fs.lstatSync fs.js:993:24
+      1  100.0%            LazyCompile: ~realpathSync fs.js:1606:40
+      1   12.5%      LazyCompile: ~Request.init /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/request.js:144:35
+      1  100.0%        LazyCompile: ~Request /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/request.js:96:18
+      1  100.0%          LazyCompile: ~request /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/request/index.js:43:18
+      1  100.0%            LazyCompile: ~doFHMbaaSRequest /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/fh-mbaas-client/lib/mbaasRequest/mbaasRequest.js:217:26
+      1   12.5%      LazyCompile: ~Long /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/long.js:43:14
+      1  100.0%        LazyCompile: ~Long.fromInt /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/long.js:679:24
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/long.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1   12.5%      LazyCompile: *EventEmitter events.js:11:22
+      1  100.0%        LazyCompile: *Stream internal/streams/legacy.js:6:16
+      1  100.0%          LazyCompile: ~SendStream /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/send/index.js:105:21
+      1  100.0%            LazyCompile: ~send /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/send/index.js:92:15
+      7    9.7%    v8::internal::Runtime_BinaryOpIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   14.3%      LazyCompile: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/lodash/dist/lodash.js:432:24
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/lodash/dist/lodash.js:10:11
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/lodash/dist/lodash.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      1   14.3%      LazyCompile: ~Module._nodeModulePaths module.js:273:37
+      1  100.0%        LazyCompile: ~Module.load module.js:478:33
+      1  100.0%          LazyCompile: tryModuleLoad module.js:443:23
+      1  100.0%            LazyCompile: ~Module._load module.js:412:24
+      1   14.3%      LazyCompile: formatValue util.js:300:21
+      1  100.0%        LazyCompile: ~formatProperty util.js:766:24
+      1  100.0%          LazyCompile: ~<anonymous> util.js:651:27
+      1  100.0%            LazyCompile: ~map native array.js:994:18
+      1   14.3%      Function: ~<anonymous> internal/process/warning.js:1:11
+      1  100.0%        LazyCompile: NativeModule.compile bootstrap_node.js:478:44
+      1  100.0%          LazyCompile: ~NativeModule.require bootstrap_node.js:414:34
+      1  100.0%            LazyCompile: ~startup bootstrap_node.js:12:19
+      1   14.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/semver/semver.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%          LazyCompile: ~Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: ~Module.load module.js:478:33
+      1   14.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/underscore/underscore.js:6:10
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-mbaas-express/node_modules/underscore/underscore.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: *Module._extensions..js module.js:577:37
+      1   14.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-db/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/semver/semver.js:1:11
+      1  100.0%        LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%          LazyCompile: *Module._extensions..js module.js:577:37
+      1  100.0%            LazyCompile: *Module.load module.js:478:33
+      5    6.9%    v8::internal::Runtime_KeyedLoadIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      2   40.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/redis/lib/commands.js:23:32
+      2  100.0%        LazyCompile: ~InnerArrayForEach native array.js:935:27
+      2  100.0%          LazyCompile: ~forEach native array.js:954:22
+      2  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/redis/lib/commands.js:1:11
+      2   40.0%      LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:4936:22
+      2  100.0%        LazyCompile: ~baseForOwn /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:3000:24
+      2  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:16815:28
+      2  100.0%            Function: ~runInContext /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:1427:44
+      1   20.0%      LazyCompile: ~_.functions._.methods /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/underscore/underscore.js:890:37
+      1  100.0%        LazyCompile: ~_.mixin /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/underscore/underscore.js:1365:21
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/underscore/underscore.js:6:10
+      1  100.0%            Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/underscore/underscore.js:1:11
+      3    4.2%    v8::internal::Runtime_CompareIC_Miss(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   33.3%      LazyCompile: ~howMuchToRead _stream_readable.js:245:23
+      1  100.0%        LazyCompile: ~Readable.read _stream_readable.js:271:35
+      1  100.0%          LazyCompile: ~Socket.read net.js:302:33
+      1  100.0%            LazyCompile: ~flow _stream_readable.js:758:14
+      1   33.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:9:11
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-sync/node_modules/fh-component-metrics/node_modules/lodash/lodash.js:1:11
+      1  100.0%          LazyCompile: ~Module._compile module.js:510:37
+      1  100.0%            LazyCompile: ~Module._extensions..js module.js:577:37
+      1   33.3%      Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/async/dist/async.js:5:19
+      1  100.0%        Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/async/dist/async.js:1:73
+      1  100.0%          Function: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/async/dist/async.js:1:11
+      1  100.0%            LazyCompile: ~Module._compile module.js:510:37
+      2    2.8%    v8::internal::Runtime_TryInstallOptimizedCode(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   50.0%      LazyCompile: formatValue util.js:300:21
+      1  100.0%        LazyCompile: ~inspect util.js:168:17
+      1  100.0%          LazyCompile: ~exports.format util.js:67:26
+      1  100.0%            LazyCompile: ~Console.log console.js:42:33
+      1   50.0%      LazyCompile: *Hmac crypto.js:88:14
+      1  100.0%        LazyCompile: *Hmac crypto.js:88:14
+      1  100.0%          LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      1  100.0%            LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+      2    2.8%    v8::internal::Runtime_CompileOptimized_Concurrent(int, v8::internal::Object**, v8::internal::Isolate*)
+      1   50.0%      LazyCompile: ~getConstructorOf util.js:266:26
+      1  100.0%        LazyCompile: formatValue util.js:300:21
+      1  100.0%          LazyCompile: ~inspect util.js:168:17
+      1  100.0%            LazyCompile: ~exports.format util.js:67:26
+      1   50.0%      LazyCompile: ~Socket.send dgram.js:309:33
+      1  100.0%        LazyCompile: send /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/lib/stats.js:24:16
+      1  100.0%          LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/lib/stats.js:41:36
+      1  100.0%            LazyCompile: ~process /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/fh-mbaas-api/node_modules/fh-statsc/node_modules/async/lib/async.js:710:31
+
+     63    2.1%  sha256_block_data_order_ssse3
+     63  100.0%    LazyCompile: *Hmac crypto.js:88:14
+     59   93.7%      LazyCompile: *<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+     59  100.0%        LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+     59  100.0%          LazyCompile: ~next /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:114:16
+     59  100.0%            LazyCompile: ~dispatch /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:98:45
+      4    6.3%      LazyCompile: *Hmac crypto.js:88:14
+      4  100.0%        LazyCompile: ~<anonymous> /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/lib/hello.js:13:26
+      4  100.0%          LazyCompile: handle /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/layer.js:86:49
+      4  100.0%            LazyCompile: ~next /home/fh/apps/support-hmnlmmotrdtaasvcczeqco5f-dev/src/node_modules/express/lib/router/route.js:114:16
+
+
+===Profile Output End============

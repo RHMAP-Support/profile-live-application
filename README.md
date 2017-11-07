@@ -204,3 +204,131 @@ new Promise((resolve, reject) => {
 ### .gitignore
 
 At this point we will want to add `isolate-*` to our .gitignore file so we don't check in any of the profiles.
+
+### Testing it out
+
+I've based this repo off the hello world template so I will need to just add some sort of heavy process to the hello endpoint. The profile does not show callers that take less than 2% so it would be mostly compile time calls and not my project code.
+
+```js
+hello.get('/', function(req, res) {
+  console.log(new Date(), 'In hello route GET / req.query=', req.query);
+  var world = req.query && req.query.hello ? req.query.hello : 'World';
+
+  const secret = 'abcdefg';
+  let hash = '';
+  for(let i = 0; i < 1000; i++){
+    hash += crypto.createHmac('sha256', secret).update('I love cupcakes').digest('hex');
+  }
+
+  // see http://expressjs.com/4x/api.html#res.json
+  res.json({msg: 'Hello ' + world, hash});
+});
+```
+
+To start the application we just need to set the environment variable first. I'm going to use cross-env here to just to simplify it across operating systems.
+
+```shell
+cross-env DEBUG_PROFILE_TIME=30000 npm start
+```
+
+This will profile the application for 30 seconds. Now in another terminal we can use curl to send reqeusts
+
+```shell
+for i in {1..100}; do curl http://localhost:8001/hello; done
+```
+
+Or in Windows PowerShell
+
+```powershell
+1..100 | % { curl http://localhost:8001/hello }
+```
+
+You should see output in the logs similar to the following (truncated):
+
+```shell
+> helloworld-cloud@0.2.0 start C:\Users\Support\Documents\Git Repos\SP---Profiling-Example-Cloud-App
+> node application.js
+
+Profiling application for 30000 ms...
+no way to determine mongo connection string
+Warning! Could not get a mongodb connection string. Sync will not work. If running in a Dynofarm/FeedHenry MBaaS, ensure the database is upgraded
+App started at: Tue Nov 07 2017 12:17:33 GMT-0500 (Eastern Standard Time) on port: 8001
+2017-11-07T17:17:40.570Z 'In hello route GET / req.query=' {}
+2017-11-07T17:17:40.672Z 'In hello route GET / req.query=' {}
+[...truncated...]
+Restarting server without profiling now
+Finding latest profile...
+no way to determine mongo connection string
+Warning! Could not get a mongodb connection string. Sync will not work. If running in a Dynofarm/FeedHenry MBaaS, ensure the database is upgraded
+App started at: Tue Nov 07 2017 12:18:03 GMT-0500 (Eastern Standard Time) on port: 8001
+Processing profile... isolate-00000258E2F43F30-v8.log
+===Profile Output Start============
+Statistical profiling result from isolate-00000258E2F43F30-v8.log, (14973 ticks, 16 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+  14243   95.1%          C:\WINDOWS\SYSTEM32\ntdll.dll
+    613    4.1%          C:\Users\Support\AppData\Local\nvs\node\6.11.3\x64\node.exe
+     11    0.1%          C:\WINDOWS\System32\KERNEL32.DLL
+      2    0.0%          C:\WINDOWS\System32\KERNELBASE.dll
+      1    0.0%          C:\WINDOWS\System32\WS2_32.dll
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+      5    0.0%    4.9%  LazyCompile: *normalizeStringWin32 path.js:12:30
+      5    0.0%    4.9%  LazyCompile: *Hmac crypto.js:88:14
+      5    0.0%    4.9%  Builtin: ArgumentsAdaptorTrampoline
+      4    0.0%    3.9%  Builtin: CallFunction_ReceiverIsAny
+      3    0.0%    2.9%  Stub: StringAddStub_CheckNone_NotTenured
+      3    0.0%    2.9%  Builtin: CallFunction_ReceiverIsNotNullOrUndefined
+[...truncated...]
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+     87    0.6%   84.5%  JavaScript
+      0    0.0%    0.0%  C++
+     28    0.2%   27.2%  GC
+  14870   99.3%          Shared libraries
+     16    0.1%          Unaccounted
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 2.0% are not shown.
+
+   ticks parent  name
+  14243   95.1%  C:\WINDOWS\SYSTEM32\ntdll.dll
+
+    613    4.1%  C:\Users\Support\AppData\Local\nvs\node\6.11.3\x64\node.exe
+    521   85.0%    C:\Users\Support\AppData\Local\nvs\node\6.11.3\x64\node.exe
+    138   26.5%      LazyCompile: *runInThisContext vm.js:96:26
+    138  100.0%        LazyCompile: ~Module._compile module.js:510:37
+     92   66.7%          LazyCompile: *Module._extensions..js module.js:577:37
+     92  100.0%            LazyCompile: *Module.load module.js:478:33
+     46   33.3%          LazyCompile: ~Module._extensions..js module.js:577:37
+     36   78.3%            LazyCompile: ~Module.load module.js:478:33
+     10   21.7%            LazyCompile: *Module.load module.js:478:33
+[...truncated...]
+
+===Profile Output End============
+```
+
+### Deploying it in RHMAP
+
+Now that we know it works and we haven't broken our existing app we can deploy this to RHMAP. 
+
+1. Commit and push your changes to the studio.
+1. Add the `DEBUG_PROFILE_TIME` environment variable to your application in the RHMAP Studio.( Choose a time that is practical for your application. 5 minutes or 300000 ms is probably a good starting point.)
+1. Push the environment variables
+1. Let the application run and perform any load testing that you might want to perform on the application
+1. After the time specified, download the logs from the log archive in the studio.
+
+If at any point we want to reprofile the application we can simply restart the application. If you want to remove profiling you can delete the environment variable and push environment variables again.
+
+See the example.log file in this repo to see an example of the profile from the studio logs. You can see that the anonymous function for my hello route is in the top 3 for CPU time. You can trace this down to the crypto call to being the biggest contributor.
