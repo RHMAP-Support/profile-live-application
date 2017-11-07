@@ -41,7 +41,7 @@ We will need a few modules to perform the following steps:
 1. Find the resulting `isolate-0xnnnnnnnnnnnn-v8.log` file
 1. Process the isolate file
 
-For step 2 we will use the `glob` module so we need to install it. It should be included in one of the dependencies anyways so it won't add much weight to the project but it's best practice to add it to your package.json as well. The other modules that we need are core modules so we won't need to install them.
+For step 4 we will use the `glob` module so we need to install it. It should be included in one of the dependencies anyways so it won't add much weight to the project but it's best practice to add it to your package.json as well. The other modules that we need are core modules so we won't need to install them.
 
 ```bash
 npm install glob --save
